@@ -1,0 +1,1638 @@
+[2024-01-16 19:04:14] Proces: System Idle Process, Status: Services, PID: 0, CPU: 0, Pamiêæ: 8 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: System, Status: Services, PID: 4, CPU: 0, Pamiêæ: 12ÿ404 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: Registry, Status: Services, PID: 108, CPU: 0, Pamiêæ: 34ÿ632 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: smss.exe, Status: Services, PID: 416, CPU: 0, Pamiêæ: 328 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: csrss.exe, Status: Services, PID: 540, CPU: 0, Pamiêæ: 2ÿ468 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: wininit.exe, Status: Services, PID: 728, CPU: 0, Pamiêæ: 716 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: csrss.exe, Status: Console, PID: 736, CPU: 1, Pamiêæ: 3ÿ396 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: services.exe, Status: Services, PID: 836, CPU: 0, Pamiêæ: 6ÿ352 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: winlogon.exe, Status: Console, PID: 844, CPU: 1, Pamiêæ: 6ÿ384 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: lsass.exe, Status: Services, PID: 888, CPU: 0, Pamiêæ: 16ÿ032 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 68, CPU: 0, Pamiêæ: 20ÿ304 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: fontdrvhost.exe, Status: Console, PID: 436, CPU: 1, Pamiêæ: 9ÿ652 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: fontdrvhost.exe, Status: Services, PID: 512, CPU: 0, Pamiêæ: 424 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 644, CPU: 0, Pamiêæ: 14ÿ724 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 772, CPU: 0, Pamiêæ: 3ÿ960 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: dwm.exe, Status: Console, PID: 440, CPU: 1, Pamiêæ: 71ÿ656 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 1116, CPU: 0, Pamiêæ: 4ÿ528 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 1168, CPU: 0, Pamiêæ: 4ÿ612 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 1252, CPU: 0, Pamiêæ: 11ÿ676 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 1340, CPU: 0, Pamiêæ: 2ÿ108 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 1380, CPU: 0, Pamiêæ: 3ÿ384 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 1412, CPU: 0, Pamiêæ: 3ÿ564 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 1540, CPU: 0, Pamiêæ: 7ÿ504 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: NVDisplay.Container.exe, Status: Services, PID: 1572, CPU: 0, Pamiêæ: 6ÿ460 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 1612, CPU: 0, Pamiêæ: 9ÿ704 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 1704, CPU: 0, Pamiêæ: 1ÿ652 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 1712, CPU: 0, Pamiêæ: 5ÿ632 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 1720, CPU: 0, Pamiêæ: 4ÿ212 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 1728, CPU: 0, Pamiêæ: 6ÿ324 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 1736, CPU: 0, Pamiêæ: 6ÿ240 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 1884, CPU: 0, Pamiêæ: 4ÿ512 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 1908, CPU: 0, Pamiêæ: 3ÿ084 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 1916, CPU: 0, Pamiêæ: 3ÿ484 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: WUDFHost.exe, Status: Services, PID: 1312, CPU: 0, Pamiêæ: 2ÿ144 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 2192, CPU: 0, Pamiêæ: 6ÿ144 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 2200, CPU: 0, Pamiêæ: 4ÿ428 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 2272, CPU: 0, Pamiêæ: 8ÿ180 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 2300, CPU: 0, Pamiêæ: 1ÿ960 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 2316, CPU: 0, Pamiêæ: 3ÿ848 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 2456, CPU: 0, Pamiêæ: 4ÿ824 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 2484, CPU: 0, Pamiêæ: 6ÿ208 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 2500, CPU: 0, Pamiêæ: 4ÿ176 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 2560, CPU: 0, Pamiêæ: 16ÿ524 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 2628, CPU: 0, Pamiêæ: 4ÿ204 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 2644, CPU: 0, Pamiêæ: 4ÿ044 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 2792, CPU: 0, Pamiêæ: 2ÿ604 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 2896, CPU: 0, Pamiêæ: 8ÿ072 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 2988, CPU: 0, Pamiêæ: 2ÿ816 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 3016, CPU: 0, Pamiêæ: 14ÿ260 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 3120, CPU: 0, Pamiêæ: 36ÿ316 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 3128, CPU: 0, Pamiêæ: 13ÿ248 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 3140, CPU: 0, Pamiêæ: 2ÿ700 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 3152, CPU: 0, Pamiêæ: 26ÿ648 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 3160, CPU: 0, Pamiêæ: 5ÿ416 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: armsvc.exe, Status: Services, PID: 3192, CPU: 0, Pamiêæ: 652 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: FoxitPDFReaderUpdateService.exe, Status: Services, PID: 3200, CPU: 0, Pamiêæ: 1ÿ436 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 3256, CPU: 0, Pamiêæ: 1ÿ400 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 3268, CPU: 0, Pamiêæ: 3ÿ896 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: logioptionsplus_updater.exe, Status: Services, PID: 3284, CPU: 0, Pamiêæ: 12ÿ240 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 3320, CPU: 0, Pamiêæ: 960 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 3360, CPU: 0, Pamiêæ: 2ÿ100 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 3380, CPU: 0, Pamiêæ: 13ÿ228 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 3432, CPU: 0, Pamiêæ: 1ÿ572 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: MsMpEng.exe, Status: Services, PID: 3464, CPU: 0, Pamiêæ: 300ÿ160 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 3524, CPU: 0, Pamiêæ: 1ÿ356 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: Memory Compression, Status: Services, PID: 4340, CPU: 0, Pamiêæ: 737ÿ288 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: dasHost.exe, Status: Services, PID: 4360, CPU: 0, Pamiêæ: 7ÿ080 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 4392, CPU: 0, Pamiêæ: 5ÿ676 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: SearchIndexer.exe, Status: Services, PID: 4524, CPU: 0, Pamiêæ: 42ÿ744 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 4608, CPU: 0, Pamiêæ: 1ÿ620 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 4772, CPU: 0, Pamiêæ: 3ÿ504 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: dasHost.exe, Status: Services, PID: 4892, CPU: 0, Pamiêæ: 2ÿ072 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 5004, CPU: 0, Pamiêæ: 6ÿ408 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: NisSrv.exe, Status: Services, PID: 5368, CPU: 0, Pamiêæ: 6ÿ880 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: NVDisplay.Container.exe, Status: Console, PID: 5940, CPU: 1, Pamiêæ: 13ÿ708 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 4480, CPU: 0, Pamiêæ: 2ÿ896 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 6116, CPU: 0, Pamiêæ: 3ÿ444 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 5484, CPU: 0, Pamiêæ: 4ÿ084 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: WmiPrvSE.exe, Status: Services, PID: 5868, CPU: 0, Pamiêæ: 3ÿ124 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 5804, CPU: 0, Pamiêæ: 8ÿ260 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 5464, CPU: 0, Pamiêæ: 6ÿ316 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: GoogleCrashHandler.exe, Status: Services, PID: 5756, CPU: 0, Pamiêæ: 1ÿ512 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: GoogleCrashHandler64.exe, Status: Services, PID: 5388, CPU: 0, Pamiêæ: 152 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: SgrmBroker.exe, Status: Services, PID: 5980, CPU: 0, Pamiêæ: 5ÿ864 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 1484, CPU: 0, Pamiêæ: 7ÿ924 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 2664, CPU: 0, Pamiêæ: 5ÿ600 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: sihost.exe, Status: Console, PID: 5492, CPU: 1, Pamiêæ: 19ÿ516 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Console, PID: 1000, CPU: 1, Pamiêæ: 17ÿ588 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Console, PID: 5532, CPU: 1, Pamiêæ: 20ÿ844 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 4420, CPU: 0, Pamiêæ: 11ÿ648 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 4388, CPU: 0, Pamiêæ: 2ÿ232 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: taskhostw.exe, Status: Console, PID: 2476, CPU: 1, Pamiêæ: 13ÿ304 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: ctfmon.exe, Status: Console, PID: 2360, CPU: 1, Pamiêæ: 11ÿ548 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: explorer.exe, Status: Console, PID: 5460, CPU: 1, Pamiêæ: 208ÿ216 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: logioptionsplus_agent.exe, Status: Console, PID: 2260, CPU: 1, Pamiêæ: 69ÿ924 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: smartscreen.exe, Status: Console, PID: 1272, CPU: 1, Pamiêæ: 18ÿ244 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Console, PID: 6200, CPU: 1, Pamiêæ: 15ÿ252 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: logi_crashpad_handler.exe, Status: Console, PID: 6320, CPU: 1, Pamiêæ: 1ÿ672 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: logi_crashpad_handler.exe, Status: Services, PID: 6440, CPU: 0, Pamiêæ: 1ÿ140 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 6476, CPU: 0, Pamiêæ: 3ÿ376 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 6688, CPU: 0, Pamiêæ: 6ÿ852 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: StartMenuExperienceHost.exe, Status: Console, PID: 6836, CPU: 1, Pamiêæ: 57ÿ936 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: RuntimeBroker.exe, Status: Console, PID: 7056, CPU: 1, Pamiêæ: 22ÿ128 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: UserOOBEBroker.exe, Status: Console, PID: 6240, CPU: 1, Pamiêæ: 5ÿ184 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: SearchApp.exe, Status: Console, PID: 6564, CPU: 1, Pamiêæ: 55ÿ000 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: RuntimeBroker.exe, Status: Console, PID: 7492, CPU: 1, Pamiêæ: 27ÿ124 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: dllhost.exe, Status: Console, PID: 8372, CPU: 1, Pamiêæ: 6ÿ808 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: TextInputHost.exe, Status: Console, PID: 8828, CPU: 1, Pamiêæ: 14ÿ400 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: SecurityHealthSystray.exe, Status: Console, PID: 5648, CPU: 1, Pamiêæ: 4ÿ604 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: SecurityHealthService.exe, Status: Services, PID: 9032, CPU: 0, Pamiêæ: 8ÿ588 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 9140, CPU: 0, Pamiêæ: 13ÿ836 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: BingSvc.exe, Status: Console, PID: 5072, CPU: 1, Pamiêæ: 22ÿ624 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: RuntimeBroker.exe, Status: Console, PID: 4128, CPU: 1, Pamiêæ: 17ÿ064 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: flux.exe, Status: Console, PID: 7048, CPU: 1, Pamiêæ: 9ÿ552 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: BingWallpaperApp.exe, Status: Console, PID: 8260, CPU: 1, Pamiêæ: 28ÿ140 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: ApplicationFrameHost.exe, Status: Console, PID: 9992, CPU: 1, Pamiêæ: 22ÿ684 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: WhatsApp.exe, Status: Console, PID: 10016, CPU: 1, Pamiêæ: 85ÿ668 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: Discord.exe, Status: Console, PID: 5948, CPU: 1, Pamiêæ: 34ÿ216 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: RuntimeBroker.exe, Status: Console, PID: 8048, CPU: 1, Pamiêæ: 18ÿ988 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 10776, CPU: 1, Pamiêæ: 222ÿ704 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: Discord.exe, Status: Console, PID: 11092, CPU: 1, Pamiêæ: 4ÿ896 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 10224, CPU: 1, Pamiêæ: 3ÿ284 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 9732, CPU: 1, Pamiêæ: 90ÿ976 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 9964, CPU: 1, Pamiêæ: 40ÿ684 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 9408, CPU: 1, Pamiêæ: 8ÿ340 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 10036, CPU: 1, Pamiêæ: 39ÿ040 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 9296, CPU: 1, Pamiêæ: 80ÿ628 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: Discord.exe, Status: Console, PID: 7980, CPU: 1, Pamiêæ: 16ÿ792 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: Discord.exe, Status: Console, PID: 10588, CPU: 1, Pamiêæ: 17ÿ700 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 8156, CPU: 1, Pamiêæ: 17ÿ656 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 11276, CPU: 1, Pamiêæ: 44ÿ396 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 11420, CPU: 1, Pamiêæ: 6ÿ632 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: chrome.exe, Status: Console, PID: 11756, CPU: 1, Pamiêæ: 255ÿ876 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 11808, CPU: 1, Pamiêæ: 16ÿ132 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 5828, CPU: 1, Pamiêæ: 114ÿ928 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 8496, CPU: 1, Pamiêæ: 5ÿ664 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: chrome.exe, Status: Console, PID: 11172, CPU: 1, Pamiêæ: 2ÿ996 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: chrome.exe, Status: Console, PID: 8004, CPU: 1, Pamiêæ: 162ÿ988 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: chrome.exe, Status: Console, PID: 8440, CPU: 1, Pamiêæ: 48ÿ168 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: chrome.exe, Status: Console, PID: 12292, CPU: 1, Pamiêæ: 10ÿ676 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: chrome.exe, Status: Console, PID: 12676, CPU: 1, Pamiêæ: 100ÿ840 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: chrome.exe, Status: Console, PID: 12768, CPU: 1, Pamiêæ: 196ÿ828 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: chrome.exe, Status: Console, PID: 13136, CPU: 1, Pamiêæ: 26ÿ904 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: chrome.exe, Status: Console, PID: 13144, CPU: 1, Pamiêæ: 19ÿ276 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: chrome.exe, Status: Console, PID: 13152, CPU: 1, Pamiêæ: 17ÿ908 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: chrome.exe, Status: Console, PID: 9488, CPU: 1, Pamiêæ: 185ÿ876 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: chrome.exe, Status: Console, PID: 12660, CPU: 1, Pamiêæ: 13ÿ968 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: Discord.exe, Status: Console, PID: 14636, CPU: 1, Pamiêæ: 85ÿ796 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: chrome.exe, Status: Console, PID: 14936, CPU: 1, Pamiêæ: 11ÿ344 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: chrome.exe, Status: Console, PID: 15088, CPU: 1, Pamiêæ: 273ÿ936 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: chrome.exe, Status: Console, PID: 15100, CPU: 1, Pamiêæ: 42ÿ856 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Console, PID: 9600, CPU: 1, Pamiêæ: 2ÿ204 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: ShellExperienceHost.exe, Status: Console, PID: 10024, CPU: 1, Pamiêæ: 49ÿ156 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: chrome.exe, Status: Console, PID: 8636, CPU: 1, Pamiêæ: 85ÿ460 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: RuntimeBroker.exe, Status: Console, PID: 6208, CPU: 1, Pamiêæ: 19ÿ052 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: SystemSettingsBroker.exe, Status: Console, PID: 10432, CPU: 1, Pamiêæ: 3ÿ280 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 16348, CPU: 1, Pamiêæ: 8ÿ340 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 15936, CPU: 1, Pamiêæ: 11ÿ488 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Console, PID: 15988, CPU: 1, Pamiêæ: 8ÿ576 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 5076, CPU: 1, Pamiêæ: 12ÿ220 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: Discord.exe, Status: Console, PID: 6976, CPU: 1, Pamiêæ: 4ÿ144 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 8620, CPU: 0, Pamiêæ: 10ÿ168 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: SearchApp.exe, Status: Console, PID: 16176, CPU: 1, Pamiêæ: 229ÿ780 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 15408, CPU: 0, Pamiêæ: 4ÿ192 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 4820, CPU: 0, Pamiêæ: 2ÿ196 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: GameBar.exe, Status: Console, PID: 7340, CPU: 1, Pamiêæ: 1ÿ600 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: GameBarFTServer.exe, Status: Console, PID: 4540, CPU: 1, Pamiêæ: 3ÿ008 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: RuntimeBroker.exe, Status: Console, PID: 15016, CPU: 1, Pamiêæ: 2ÿ368 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 14912, CPU: 0, Pamiêæ: 4ÿ016 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: LockApp.exe, Status: Console, PID: 10368, CPU: 1, Pamiêæ: 23ÿ956 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: RuntimeBroker.exe, Status: Console, PID: 3676, CPU: 1, Pamiêæ: 21ÿ020 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: WmiPrvSE.exe, Status: Services, PID: 16604, CPU: 0, Pamiêæ: 20ÿ680 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: spoolsv.exe, Status: Services, PID: 8248, CPU: 0, Pamiêæ: 14ÿ280 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 9464, CPU: 0, Pamiêæ: 6ÿ916 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Console, PID: 4460, CPU: 1, Pamiêæ: 2ÿ020 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 8676, CPU: 0, Pamiêæ: 2ÿ236 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: MoUsoCoreWorker.exe, Status: Services, PID: 17736, CPU: 0, Pamiêæ: 13ÿ976 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 7756, CPU: 0, Pamiêæ: 2ÿ480 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 5732, CPU: 1, Pamiêæ: 10ÿ472 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: chrome.exe, Status: Console, PID: 11400, CPU: 1, Pamiêæ: 252ÿ660 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: Taskmgr.exe, Status: Console, PID: 10392, CPU: 1, Pamiêæ: 27ÿ064 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 17252, CPU: 0, Pamiêæ: 3ÿ772 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: rundll32.exe, Status: Console, PID: 8508, CPU: 1, Pamiêæ: 4ÿ012 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Console, PID: 16572, CPU: 1, Pamiêæ: 2ÿ544 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: thunderbird.exe, Status: Console, PID: 3588, CPU: 1, Pamiêæ: 388ÿ948 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: thunderbird.exe, Status: Console, PID: 19104, CPU: 1, Pamiêæ: 105ÿ464 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: thunderbird.exe, Status: Console, PID: 16928, CPU: 1, Pamiêæ: 12ÿ144 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: thunderbird.exe, Status: Console, PID: 12336, CPU: 1, Pamiêæ: 11ÿ336 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: chrome.exe, Status: Console, PID: 6804, CPU: 1, Pamiêæ: 205ÿ284 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 19612, CPU: 0, Pamiêæ: 11ÿ680 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 9304, CPU: 1, Pamiêæ: 16ÿ720 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: chrome.exe, Status: Console, PID: 6924, CPU: 1, Pamiêæ: 49ÿ320 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 14128, CPU: 0, Pamiêæ: 9ÿ416 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 10156, CPU: 1, Pamiêæ: 92ÿ668 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: FoxitPDFReader.exe, Status: Console, PID: 13688, CPU: 1, Pamiêæ: 46ÿ420 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 19368, CPU: 1, Pamiêæ: 14ÿ988 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 18352, CPU: 1, Pamiêæ: 146ÿ008 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: PhoneExperienceHost.exe, Status: Console, PID: 10732, CPU: 1, Pamiêæ: 70ÿ936 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: RuntimeBroker.exe, Status: Console, PID: 9540, CPU: 1, Pamiêæ: 11ÿ000 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 17236, CPU: 1, Pamiêæ: 21ÿ616 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 15916, CPU: 1, Pamiêæ: 146ÿ356 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: logioptionsplus_appbroker.exe, Status: Console, PID: 18824, CPU: 1, Pamiêæ: 6ÿ948 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: taskhostw.exe, Status: Console, PID: 16904, CPU: 1, Pamiêæ: 9ÿ424 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 19180, CPU: 0, Pamiêæ: 5ÿ296 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: unsecapp.exe, Status: Console, PID: 4748, CPU: 1, Pamiêæ: 8ÿ612 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: CalculatorApp.exe, Status: Console, PID: 8480, CPU: 1, Pamiêæ: 1ÿ564 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: RuntimeBroker.exe, Status: Console, PID: 19528, CPU: 1, Pamiêæ: 6ÿ680 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 13796, CPU: 1, Pamiêæ: 13ÿ652 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: svchost.exe, Status: Services, PID: 12436, CPU: 0, Pamiêæ: 8ÿ560 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: SystemSettings.exe, Status: Console, PID: 15544, CPU: 1, Pamiêæ: 1ÿ580 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 12072, CPU: 1, Pamiêæ: 18ÿ260 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: msedge.exe, Status: Console, PID: 2928, CPU: 1, Pamiêæ: 27ÿ712 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: Code.exe, Status: Console, PID: 15616, CPU: 1, Pamiêæ: 121ÿ216 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: Code.exe, Status: Console, PID: 8, CPU: 1, Pamiêæ: 28ÿ284 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: Code.exe, Status: Console, PID: 19964, CPU: 1, Pamiêæ: 133ÿ364 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: Code.exe, Status: Console, PID: 9976, CPU: 1, Pamiêæ: 39ÿ620 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: Code.exe, Status: Console, PID: 20020, CPU: 1, Pamiêæ: 335ÿ980 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: Code.exe, Status: Console, PID: 12232, CPU: 1, Pamiêæ: 102ÿ928 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: Code.exe, Status: Console, PID: 1160, CPU: 1, Pamiêæ: 76ÿ576 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:14] Proces: Code.exe, Status: Console, PID: 5012, CPU: 1, Pamiêæ: 227ÿ512 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: TabNine.exe, Status: Console, PID: 2384, CPU: 1, Pamiêæ: 22ÿ132 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: conhost.exe, Status: Console, PID: 9200, CPU: 1, Pamiêæ: 10ÿ736 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: Code.exe, Status: Console, PID: 6448, CPU: 1, Pamiêæ: 79ÿ280 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: WD-TabNine.exe, Status: Console, PID: 15928, CPU: 1, Pamiêæ: 21ÿ624 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: TabNine.exe, Status: Console, PID: 1536, CPU: 1, Pamiêæ: 61ÿ260 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: Code.exe, Status: Console, PID: 13976, CPU: 1, Pamiêæ: 104ÿ108 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: Code.exe, Status: Console, PID: 5328, CPU: 1, Pamiêæ: 340ÿ824 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: conhost.exe, Status: Console, PID: 11748, CPU: 1, Pamiêæ: 6ÿ332 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: powershell.exe, Status: Console, PID: 15080, CPU: 1, Pamiêæ: 75ÿ476 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: notepad++.exe, Status: Console, PID: 15448, CPU: 1, Pamiêæ: 31ÿ704 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: Code.exe, Status: Console, PID: 16544, CPU: 1, Pamiêæ: 83ÿ620 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: Code.exe, Status: Console, PID: 7972, CPU: 1, Pamiêæ: 86ÿ104 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: SearchProtocolHost.exe, Status: Services, PID: 18260, CPU: 0, Pamiêæ: 13ÿ856 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: svchost.exe, Status: Services, PID: 1444, CPU: 0, Pamiêæ: 7ÿ660 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: SearchFilterHost.exe, Status: Services, PID: 20452, CPU: 0, Pamiêæ: 7ÿ684 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: chrome.exe, Status: Console, PID: 18516, CPU: 1, Pamiêæ: 29ÿ968 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: svchost.exe, Status: Services, PID: 964, CPU: 0, Pamiêæ: 46ÿ648 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: svchost.exe, Status: Services, PID: 3892, CPU: 0, Pamiêæ: 7ÿ832 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: RuntimeBroker.exe, Status: Console, PID: 16420, CPU: 1, Pamiêæ: 10ÿ568 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: chrome.exe, Status: Console, PID: 9728, CPU: 1, Pamiêæ: 37ÿ408 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: conhost.exe, Status: Console, PID: 16412, CPU: 1, Pamiêæ: 6ÿ524 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: powershell.exe, Status: Console, PID: 17312, CPU: 1, Pamiêæ: 76ÿ884 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: python.exe, Status: Console, PID: 14124, CPU: 1, Pamiêæ: 12ÿ160 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:04:15] Proces: tasklist.exe, Status: Console, PID: 20300, CPU: 1, Pamiêæ: 9ÿ404 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-16 19:13:54] B³¹d podczas analizy pamiêci.
+[2024-01-16 19:18:27] B³¹d podczas analizy pamiêci.
+[2024-01-16 20:10:05] B³¹d podczas analizy pamiêci.
+[2024-01-16 20:11:54] B³¹d podczas analizy pamiêci.
+[2024-01-16 20:13:35] B³¹d podczas analizy pamiêci.
+[2024-01-16 20:19:09] B³¹d podczas analizy pamiêci.
+[2024-01-16 20:21:08] B³¹d podczas analizy pamiêci.
+[2024-01-16 20:55:00] B³¹d podczas analizy pamiêci.
+[2024-01-16 20:55:21] B³¹d podczas analizy pamiêci.
+[2024-01-16 20:59:37] B³¹d podczas analizy pamiêci.
+[2024-01-16 20:59:55] B³¹d podczas analizy pamiêci.
+[2024-01-16 21:00:13] B³¹d podczas analizy pamiêci.
+[2024-01-16 21:11:03] B³¹d podczas analizy pamiêci.
+[2024-01-16 21:14:51] B³¹d podczas analizy pamiêci.
+[2024-01-16 21:17:23] B³¹d podczas analizy pamiêci.
+[2024-01-17 10:43:34] B³¹d podczas wyœwietlania w³aœciwoœci pliku/folderu : [WinError 3] System nie mo¿e odnaleŸæ okreœlonej œcie¿ki: ''
+[2024-01-17 10:55:32] I/O on Disk 'PhysicalDrive0': Read 73415533568 bytes, Write 86361604608 bytes
+[2024-01-17 10:55:32] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:32] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:32] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:32] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:32] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 10:55:33] I/O on Disk 'PhysicalDrive0': Read 73415533568 bytes, Write 86361715200 bytes
+[2024-01-17 10:55:33] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:33] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:33] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:33] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:33] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 10:55:34] I/O on Disk 'PhysicalDrive0': Read 73415533568 bytes, Write 86361747968 bytes
+[2024-01-17 10:55:34] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:34] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:34] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:34] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:34] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 10:55:35] I/O on Disk 'PhysicalDrive0': Read 73415533568 bytes, Write 86361876992 bytes
+[2024-01-17 10:55:35] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:35] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:35] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:35] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:35] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 10:55:36] I/O on Disk 'PhysicalDrive0': Read 73415533568 bytes, Write 86362060800 bytes
+[2024-01-17 10:55:36] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:36] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:36] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:36] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:36] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 10:55:37] I/O on Disk 'PhysicalDrive0': Read 73415533568 bytes, Write 86362060800 bytes
+[2024-01-17 10:55:37] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:37] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:37] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:37] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:37] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 10:55:38] I/O on Disk 'PhysicalDrive0': Read 73415533568 bytes, Write 86362173440 bytes
+[2024-01-17 10:55:38] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:38] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:38] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:38] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:38] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 10:55:39] I/O on Disk 'PhysicalDrive0': Read 73415772672 bytes, Write 86362200576 bytes
+[2024-01-17 10:55:39] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:39] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:39] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:39] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:39] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 10:55:40] I/O on Disk 'PhysicalDrive0': Read 73415772672 bytes, Write 86362294272 bytes
+[2024-01-17 10:55:40] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:40] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:40] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:40] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:40] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 10:55:41] I/O on Disk 'PhysicalDrive0': Read 73415772672 bytes, Write 86362535936 bytes
+[2024-01-17 10:55:41] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:41] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:41] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:41] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:41] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 10:55:42] I/O on Disk 'PhysicalDrive0': Read 73416347136 bytes, Write 86362657280 bytes
+[2024-01-17 10:55:42] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:42] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:42] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:42] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:42] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 10:55:43] I/O on Disk 'PhysicalDrive0': Read 73416351232 bytes, Write 86364362752 bytes
+[2024-01-17 10:55:43] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:43] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:43] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:43] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:43] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 10:55:44] I/O on Disk 'PhysicalDrive0': Read 73417223680 bytes, Write 86364932608 bytes
+[2024-01-17 10:55:44] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:44] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:44] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:44] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:44] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 10:55:45] I/O on Disk 'PhysicalDrive0': Read 73417223680 bytes, Write 86364932608 bytes
+[2024-01-17 10:55:45] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:45] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:45] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:45] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:45] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 10:55:46] I/O on Disk 'PhysicalDrive0': Read 73417251328 bytes, Write 86365151232 bytes
+[2024-01-17 10:55:46] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:46] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:46] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:46] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 10:55:46] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:00:10] I/O on Disk 'PhysicalDrive0': Read 73421067264 bytes, Write 86398531584 bytes
+[2024-01-17 11:00:10] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:10] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:10] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:10] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:10] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:00:11] I/O on Disk 'PhysicalDrive0': Read 73421067264 bytes, Write 86398649344 bytes
+[2024-01-17 11:00:11] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:11] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:11] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:11] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:11] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:00:12] I/O on Disk 'PhysicalDrive0': Read 73421067264 bytes, Write 86399164416 bytes
+[2024-01-17 11:00:12] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:12] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:12] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:12] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:12] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:00:13] I/O on Disk 'PhysicalDrive0': Read 73421165568 bytes, Write 86399164416 bytes
+[2024-01-17 11:00:13] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:13] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:13] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:13] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:13] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:00:14] I/O on Disk 'PhysicalDrive0': Read 73421165568 bytes, Write 86399271424 bytes
+[2024-01-17 11:00:14] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:14] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:14] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:14] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:14] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:00:15] I/O on Disk 'PhysicalDrive0': Read 73421179392 bytes, Write 86399411712 bytes
+[2024-01-17 11:00:15] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:15] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:15] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:15] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:15] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:00:16] I/O on Disk 'PhysicalDrive0': Read 73421179392 bytes, Write 86399485440 bytes
+[2024-01-17 11:00:16] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:16] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:16] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:16] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:16] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:00:17] I/O on Disk 'PhysicalDrive0': Read 73421179392 bytes, Write 86399620608 bytes
+[2024-01-17 11:00:17] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:17] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:17] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:17] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:17] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:00:18] I/O on Disk 'PhysicalDrive0': Read 73421179392 bytes, Write 86399666688 bytes
+[2024-01-17 11:00:18] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:18] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:18] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:18] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:18] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:00:19] I/O on Disk 'PhysicalDrive0': Read 73421212160 bytes, Write 86399698432 bytes
+[2024-01-17 11:00:19] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:19] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:19] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:19] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:19] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:00:20] I/O on Disk 'PhysicalDrive0': Read 73421212160 bytes, Write 86399792128 bytes
+[2024-01-17 11:00:20] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:20] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:20] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:20] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:20] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:00:21] I/O on Disk 'PhysicalDrive0': Read 73421225984 bytes, Write 86399955968 bytes
+[2024-01-17 11:00:21] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:21] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:21] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:21] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:00:21] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:15] I/O on Disk 'PhysicalDrive0': Read 73422268416 bytes, Write 86463341568 bytes
+[2024-01-17 11:03:15] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:15] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:15] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:15] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:15] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:16] I/O on Disk 'PhysicalDrive0': Read 73422268416 bytes, Write 86463341568 bytes
+[2024-01-17 11:03:16] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:16] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:16] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:16] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:16] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:17] I/O on Disk 'PhysicalDrive0': Read 73422268416 bytes, Write 86463446016 bytes
+[2024-01-17 11:03:17] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:17] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:17] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:17] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:17] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:18] I/O on Disk 'PhysicalDrive0': Read 73422268416 bytes, Write 86463489536 bytes
+[2024-01-17 11:03:18] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:18] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:18] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:18] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:18] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:19] I/O on Disk 'PhysicalDrive0': Read 73422268416 bytes, Write 86463518208 bytes
+[2024-01-17 11:03:19] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:19] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:19] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:19] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:19] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:20] I/O on Disk 'PhysicalDrive0': Read 73422268416 bytes, Write 86463682048 bytes
+[2024-01-17 11:03:20] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:20] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:20] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:20] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:20] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:21] I/O on Disk 'PhysicalDrive0': Read 73422268416 bytes, Write 86463743488 bytes
+[2024-01-17 11:03:21] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:21] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:21] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:21] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:21] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:22] I/O on Disk 'PhysicalDrive0': Read 73422268416 bytes, Write 86463842304 bytes
+[2024-01-17 11:03:22] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:22] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:22] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:22] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:22] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:23] I/O on Disk 'PhysicalDrive0': Read 73422268416 bytes, Write 86463859712 bytes
+[2024-01-17 11:03:23] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:23] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:23] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:23] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:23] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:24] I/O on Disk 'PhysicalDrive0': Read 73422268416 bytes, Write 86464101376 bytes
+[2024-01-17 11:03:24] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:24] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:24] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:24] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:24] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:25] I/O on Disk 'PhysicalDrive0': Read 73422268416 bytes, Write 86464148480 bytes
+[2024-01-17 11:03:25] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:25] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:25] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:25] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:25] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:26] I/O on Disk 'PhysicalDrive0': Read 73422268416 bytes, Write 86464224768 bytes
+[2024-01-17 11:03:26] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:26] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:26] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:26] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:26] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:27] I/O on Disk 'PhysicalDrive0': Read 73422268416 bytes, Write 86464805376 bytes
+[2024-01-17 11:03:27] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:27] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:27] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:27] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:27] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:28] I/O on Disk 'PhysicalDrive0': Read 73422268416 bytes, Write 86464805376 bytes
+[2024-01-17 11:03:28] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:28] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:28] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:28] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:28] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:29] I/O on Disk 'PhysicalDrive0': Read 73422268416 bytes, Write 86465583616 bytes
+[2024-01-17 11:03:29] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:29] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:29] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:29] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:29] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:30] I/O on Disk 'PhysicalDrive0': Read 73422268416 bytes, Write 86465737216 bytes
+[2024-01-17 11:03:30] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:30] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:30] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:30] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:30] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:31] I/O on Disk 'PhysicalDrive0': Read 73422268416 bytes, Write 86465857536 bytes
+[2024-01-17 11:03:31] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:31] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:31] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:31] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:31] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:32] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86465857536 bytes
+[2024-01-17 11:03:32] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:32] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:32] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:32] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:32] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:33] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86466017280 bytes
+[2024-01-17 11:03:33] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:33] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:33] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:33] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:33] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:34] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86466044416 bytes
+[2024-01-17 11:03:34] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:34] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:34] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:34] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:34] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:35] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86466072064 bytes
+[2024-01-17 11:03:35] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:35] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:35] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:35] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:35] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:36] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86466072064 bytes
+[2024-01-17 11:03:36] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:36] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:36] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:36] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:36] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:37] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86466149888 bytes
+[2024-01-17 11:03:37] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:37] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:37] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:37] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:37] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:38] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86466209280 bytes
+[2024-01-17 11:03:38] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:38] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:38] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:38] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:38] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:39] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86466209280 bytes
+[2024-01-17 11:03:39] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:39] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:39] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:39] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:39] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:40] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86466585088 bytes
+[2024-01-17 11:03:40] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:40] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:40] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:40] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:40] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:41] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86466711040 bytes
+[2024-01-17 11:03:41] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:41] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:41] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:41] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:41] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:42] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86466915328 bytes
+[2024-01-17 11:03:42] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:42] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:42] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:42] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:42] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:43] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86467046400 bytes
+[2024-01-17 11:03:43] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:43] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:43] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:43] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:43] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:44] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86467143680 bytes
+[2024-01-17 11:03:44] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:44] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:44] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:44] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:44] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:45] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86467295232 bytes
+[2024-01-17 11:03:45] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:45] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:45] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:45] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:45] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:46] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86467381760 bytes
+[2024-01-17 11:03:46] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:46] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:46] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:46] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:46] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:47] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86467504640 bytes
+[2024-01-17 11:03:47] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:47] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:47] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:47] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:47] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:48] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86467641344 bytes
+[2024-01-17 11:03:48] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:48] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:48] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:48] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:48] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:49] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86467664896 bytes
+[2024-01-17 11:03:49] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:49] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:49] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:49] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:49] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:50] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86467692032 bytes
+[2024-01-17 11:03:50] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:50] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:50] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:50] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:50] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:51] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86467692032 bytes
+[2024-01-17 11:03:51] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:51] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:51] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:51] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:51] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:52] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86467855360 bytes
+[2024-01-17 11:03:52] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:52] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:52] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:52] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:52] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:53] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86467892224 bytes
+[2024-01-17 11:03:53] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:53] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:53] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:53] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:53] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:54] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86467991040 bytes
+[2024-01-17 11:03:54] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:54] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:54] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:54] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:54] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:55] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86467991040 bytes
+[2024-01-17 11:03:55] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:55] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:55] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:55] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:55] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:56] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86468086784 bytes
+[2024-01-17 11:03:56] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:56] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:56] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:56] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:56] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:57] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86468105216 bytes
+[2024-01-17 11:03:57] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:57] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:57] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:57] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:57] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:58] I/O on Disk 'PhysicalDrive0': Read 73422282240 bytes, Write 86468242944 bytes
+[2024-01-17 11:03:58] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:58] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:58] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:58] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:58] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:03:59] I/O on Disk 'PhysicalDrive0': Read 73422296064 bytes, Write 86468283904 bytes
+[2024-01-17 11:03:59] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:59] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:59] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:59] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:03:59] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:04:00] I/O on Disk 'PhysicalDrive0': Read 73422296064 bytes, Write 86468414464 bytes
+[2024-01-17 11:04:00] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:00] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:00] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:00] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:01] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:04:44] I/O on Disk 'PhysicalDrive0': Read 73422651904 bytes, Write 86471712768 bytes
+[2024-01-17 11:04:44] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:44] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:44] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:44] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:44] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:04:45] I/O on Disk 'PhysicalDrive0': Read 73422651904 bytes, Write 86471758336 bytes
+[2024-01-17 11:04:45] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:45] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:45] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:45] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:45] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:04:46] I/O on Disk 'PhysicalDrive0': Read 73422665728 bytes, Write 86471828480 bytes
+[2024-01-17 11:04:46] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:46] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:46] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:46] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:46] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:04:47] I/O on Disk 'PhysicalDrive0': Read 73422665728 bytes, Write 86471967744 bytes
+[2024-01-17 11:04:47] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:47] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:47] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:47] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:47] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:04:48] I/O on Disk 'PhysicalDrive0': Read 73422665728 bytes, Write 86472068096 bytes
+[2024-01-17 11:04:48] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:48] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:48] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:48] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:48] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:04:49] I/O on Disk 'PhysicalDrive0': Read 73422665728 bytes, Write 86472103424 bytes
+[2024-01-17 11:04:49] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:49] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:49] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:49] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:49] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:04:50] I/O on Disk 'PhysicalDrive0': Read 73422665728 bytes, Write 86472136192 bytes
+[2024-01-17 11:04:50] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:50] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:50] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:50] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:50] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:04:51] I/O on Disk 'PhysicalDrive0': Read 73422665728 bytes, Write 86472136192 bytes
+[2024-01-17 11:04:51] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:51] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:51] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:51] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:04:51] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:05:54] I/O on Disk 'PhysicalDrive0': Read 73422747648 bytes, Write 86482480128 bytes
+[2024-01-17 11:05:54] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:54] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:54] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:54] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:54] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:05:55] I/O on Disk 'PhysicalDrive0': Read 73422747648 bytes, Write 86482738176 bytes
+[2024-01-17 11:05:55] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:55] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:55] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:55] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:55] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:05:56] I/O on Disk 'PhysicalDrive0': Read 73422747648 bytes, Write 86482929152 bytes
+[2024-01-17 11:05:56] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:56] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:56] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:56] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:56] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:05:57] I/O on Disk 'PhysicalDrive0': Read 73422755840 bytes, Write 86483581952 bytes
+[2024-01-17 11:05:57] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:57] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:57] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:57] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:57] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:05:58] I/O on Disk 'PhysicalDrive0': Read 73422755840 bytes, Write 86483971072 bytes
+[2024-01-17 11:05:58] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:58] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:58] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:58] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:58] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:05:59] I/O on Disk 'PhysicalDrive0': Read 73422755840 bytes, Write 86484167680 bytes
+[2024-01-17 11:05:59] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:59] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:59] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:59] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:05:59] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:06:00] I/O on Disk 'PhysicalDrive0': Read 73422755840 bytes, Write 86484291584 bytes
+[2024-01-17 11:06:00] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:00] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:00] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:00] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:00] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:06:01] I/O on Disk 'PhysicalDrive0': Read 73422755840 bytes, Write 86484315648 bytes
+[2024-01-17 11:06:01] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:01] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:01] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:01] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:01] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:06:02] I/O on Disk 'PhysicalDrive0': Read 73422755840 bytes, Write 86484418048 bytes
+[2024-01-17 11:06:03] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:03] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:03] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:03] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:03] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:06:04] I/O on Disk 'PhysicalDrive0': Read 73422755840 bytes, Write 86484418048 bytes
+[2024-01-17 11:06:04] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:04] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:04] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:04] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:04] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:06:05] I/O on Disk 'PhysicalDrive0': Read 73422755840 bytes, Write 86484489728 bytes
+[2024-01-17 11:06:05] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:05] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:05] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:05] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:05] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:06:35] I/O on Disk 'PhysicalDrive0': Read 73423475200 bytes, Write 86488022528 bytes
+[2024-01-17 11:06:35] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:35] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:35] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:35] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:35] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:06:36] I/O on Disk 'PhysicalDrive0': Read 73423475200 bytes, Write 86488132608 bytes
+[2024-01-17 11:06:36] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:36] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:36] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:36] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:36] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:06:37] I/O on Disk 'PhysicalDrive0': Read 73423475200 bytes, Write 86488278528 bytes
+[2024-01-17 11:06:37] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:37] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:37] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:37] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:37] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:06:38] I/O on Disk 'PhysicalDrive0': Read 73423475200 bytes, Write 86488400384 bytes
+[2024-01-17 11:06:38] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:38] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:38] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:38] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:38] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:06:39] I/O on Disk 'PhysicalDrive0': Read 73423475200 bytes, Write 86488400384 bytes
+[2024-01-17 11:06:39] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:39] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:39] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:39] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:39] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:06:40] I/O on Disk 'PhysicalDrive0': Read 73423475200 bytes, Write 86488433152 bytes
+[2024-01-17 11:06:40] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:40] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:40] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:40] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:40] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:06:41] I/O on Disk 'PhysicalDrive0': Read 73423475200 bytes, Write 86488562176 bytes
+[2024-01-17 11:06:41] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:41] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:41] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:41] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:41] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:06:42] I/O on Disk 'PhysicalDrive0': Read 73423475200 bytes, Write 86488682496 bytes
+[2024-01-17 11:06:42] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:42] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:42] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:42] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:42] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:06:43] I/O on Disk 'PhysicalDrive0': Read 73423475200 bytes, Write 86488731648 bytes
+[2024-01-17 11:06:43] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:43] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:43] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:43] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:43] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:06:44] I/O on Disk 'PhysicalDrive0': Read 73423475200 bytes, Write 86488908288 bytes
+[2024-01-17 11:06:44] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:44] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:44] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:44] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:06:44] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:07:32] I/O on Disk 'PhysicalDrive0': Read 73423999488 bytes, Write 86496654848 bytes
+[2024-01-17 11:07:32] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:32] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:32] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:32] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:32] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:07:33] I/O on Disk 'PhysicalDrive0': Read 73423999488 bytes, Write 86496777216 bytes
+[2024-01-17 11:07:33] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:33] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:33] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:33] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:33] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:07:34] I/O on Disk 'PhysicalDrive0': Read 73423999488 bytes, Write 86496977920 bytes
+[2024-01-17 11:07:34] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:34] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:34] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:34] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:34] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:07:35] I/O on Disk 'PhysicalDrive0': Read 73423999488 bytes, Write 86496998400 bytes
+[2024-01-17 11:07:35] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:35] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:35] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:35] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:35] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:07:36] I/O on Disk 'PhysicalDrive0': Read 73423999488 bytes, Write 86497027584 bytes
+[2024-01-17 11:07:36] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:36] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:36] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:36] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:36] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:07:37] I/O on Disk 'PhysicalDrive0': Read 73423999488 bytes, Write 86497053184 bytes
+[2024-01-17 11:07:37] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:37] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:37] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:37] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:37] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:07:38] I/O on Disk 'PhysicalDrive0': Read 73423999488 bytes, Write 86497155584 bytes
+[2024-01-17 11:07:38] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:38] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:38] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:38] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:38] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:07:39] I/O on Disk 'PhysicalDrive0': Read 73423999488 bytes, Write 86497358336 bytes
+[2024-01-17 11:07:39] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:39] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:39] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:39] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:39] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:07:40] I/O on Disk 'PhysicalDrive0': Read 73423999488 bytes, Write 86497460736 bytes
+[2024-01-17 11:07:40] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:40] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:40] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:40] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:40] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:07:41] I/O on Disk 'PhysicalDrive0': Read 73423999488 bytes, Write 86497582592 bytes
+[2024-01-17 11:07:41] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:41] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:41] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:41] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:41] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:07:42] I/O on Disk 'PhysicalDrive0': Read 73423999488 bytes, Write 86497582592 bytes
+[2024-01-17 11:07:42] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:42] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:42] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:42] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:42] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:07:43] I/O on Disk 'PhysicalDrive0': Read 73423999488 bytes, Write 86497643008 bytes
+[2024-01-17 11:07:43] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:43] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:43] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:43] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:43] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:07:44] I/O on Disk 'PhysicalDrive0': Read 73423999488 bytes, Write 86497913856 bytes
+[2024-01-17 11:07:44] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:44] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:44] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:44] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:44] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:07:45] I/O on Disk 'PhysicalDrive0': Read 73423999488 bytes, Write 86498013696 bytes
+[2024-01-17 11:07:45] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:45] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:45] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:45] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:45] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:07:46] I/O on Disk 'PhysicalDrive0': Read 73423999488 bytes, Write 86498013696 bytes
+[2024-01-17 11:07:46] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:46] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:46] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:46] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:46] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:07:47] I/O on Disk 'PhysicalDrive0': Read 73423999488 bytes, Write 86498101760 bytes
+[2024-01-17 11:07:47] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:47] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:47] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:47] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:47] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:07:48] I/O on Disk 'PhysicalDrive0': Read 73423999488 bytes, Write 86498223104 bytes
+[2024-01-17 11:07:48] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:48] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:48] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:48] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:48] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:07:49] I/O on Disk 'PhysicalDrive0': Read 73424003584 bytes, Write 86498545664 bytes
+[2024-01-17 11:07:49] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:49] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:49] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:49] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:49] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:07:50] I/O on Disk 'PhysicalDrive0': Read 73424003584 bytes, Write 86498545664 bytes
+[2024-01-17 11:07:50] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:50] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:50] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:50] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:07:50] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:09:46] I/O on Disk 'PhysicalDrive0': Read 73426170880 bytes, Write 86521603584 bytes
+[2024-01-17 11:09:46] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:46] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:46] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:46] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:46] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:09:47] I/O on Disk 'PhysicalDrive0': Read 73426170880 bytes, Write 86521693696 bytes
+[2024-01-17 11:09:47] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:47] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:47] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:47] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:47] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:09:48] I/O on Disk 'PhysicalDrive0': Read 73426170880 bytes, Write 86522010112 bytes
+[2024-01-17 11:09:48] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:48] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:48] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:48] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:48] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:09:49] I/O on Disk 'PhysicalDrive0': Read 73426170880 bytes, Write 86522085376 bytes
+[2024-01-17 11:09:49] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:49] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:49] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:49] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:49] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:09:50] I/O on Disk 'PhysicalDrive0': Read 73426170880 bytes, Write 86522085376 bytes
+[2024-01-17 11:09:50] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:50] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:50] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:50] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:50] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:09:51] I/O on Disk 'PhysicalDrive0': Read 73426170880 bytes, Write 86522116608 bytes
+[2024-01-17 11:09:51] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:51] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:51] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:51] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:51] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:09:52] I/O on Disk 'PhysicalDrive0': Read 73426170880 bytes, Write 86522144256 bytes
+[2024-01-17 11:09:52] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:52] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:52] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:52] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:52] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:09:53] I/O on Disk 'PhysicalDrive0': Read 73426170880 bytes, Write 86522144256 bytes
+[2024-01-17 11:09:53] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:53] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:53] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:53] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:53] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:09:54] I/O on Disk 'PhysicalDrive0': Read 73426170880 bytes, Write 86522295808 bytes
+[2024-01-17 11:09:54] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:54] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:54] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:54] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:54] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 11:09:55] I/O on Disk 'PhysicalDrive0': Read 73426170880 bytes, Write 86522414080 bytes
+[2024-01-17 11:09:55] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:55] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:55] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:55] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-17 11:09:55] I/O on Disk 'PhysicalDrive5': Read 153600 bytes, Write 417792 bytes
+[2024-01-17 18:35:26] U¿ytkownik 'RadoStaw' zalogowa³ siê.
+[2024-01-17 18:35:26] Zalogowanie u¿ytkownika: RadoStaw
+[2024-01-17 18:35:37] Zalogowani u¿ytkownicy: RadoStaw
+[2024-01-17 18:37:33] U¿ytkownik 'RadoStaw' wylogowa³ siê.
+[2024-01-17 18:37:33] Wylogowanie u¿ytkownika: RadoStaw
+[2024-01-17 18:37:38] Zalogowani u¿ytkownicy: 
+[2024-01-19 12:44:09] Proces: System Idle Process, Status: Services, PID: 0, CPU: 0, Pamiêæ: 8 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: System, Status: Services, PID: 4, CPU: 0, Pamiêæ: 5ÿ904 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: Registry, Status: Services, PID: 108, CPU: 0, Pamiêæ: 36ÿ760 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: smss.exe, Status: Services, PID: 416, CPU: 0, Pamiêæ: 300 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: csrss.exe, Status: Services, PID: 540, CPU: 0, Pamiêæ: 1ÿ928 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: wininit.exe, Status: Services, PID: 728, CPU: 0, Pamiêæ: 944 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: services.exe, Status: Services, PID: 836, CPU: 0, Pamiêæ: 6ÿ480 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: lsass.exe, Status: Services, PID: 888, CPU: 0, Pamiêæ: 15ÿ148 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 68, CPU: 0, Pamiêæ: 26ÿ020 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: fontdrvhost.exe, Status: Services, PID: 512, CPU: 0, Pamiêæ: 280 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 644, CPU: 0, Pamiêæ: 14ÿ852 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 772, CPU: 0, Pamiêæ: 3ÿ604 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 1116, CPU: 0, Pamiêæ: 4ÿ424 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 1168, CPU: 0, Pamiêæ: 4ÿ288 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 1252, CPU: 0, Pamiêæ: 10ÿ676 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 1340, CPU: 0, Pamiêæ: 1ÿ988 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 1380, CPU: 0, Pamiêæ: 3ÿ412 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 1412, CPU: 0, Pamiêæ: 3ÿ420 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 1540, CPU: 0, Pamiêæ: 6ÿ928 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: NVDisplay.Container.exe, Status: Services, PID: 1572, CPU: 0, Pamiêæ: 5ÿ468 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 1612, CPU: 0, Pamiêæ: 9ÿ532 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 1704, CPU: 0, Pamiêæ: 1ÿ524 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 1712, CPU: 0, Pamiêæ: 4ÿ932 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 1720, CPU: 0, Pamiêæ: 3ÿ552 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 1728, CPU: 0, Pamiêæ: 6ÿ136 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 1736, CPU: 0, Pamiêæ: 6ÿ156 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 1884, CPU: 0, Pamiêæ: 2ÿ524 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 1908, CPU: 0, Pamiêæ: 2ÿ380 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 1916, CPU: 0, Pamiêæ: 4ÿ924 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: WUDFHost.exe, Status: Services, PID: 1312, CPU: 0, Pamiêæ: 1ÿ880 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 2192, CPU: 0, Pamiêæ: 6ÿ512 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 2200, CPU: 0, Pamiêæ: 4ÿ028 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 2272, CPU: 0, Pamiêæ: 45ÿ928 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 2300, CPU: 0, Pamiêæ: 1ÿ560 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 2316, CPU: 0, Pamiêæ: 3ÿ752 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 2456, CPU: 0, Pamiêæ: 4ÿ960 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 2484, CPU: 0, Pamiêæ: 5ÿ580 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 2500, CPU: 0, Pamiêæ: 3ÿ868 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 2560, CPU: 0, Pamiêæ: 16ÿ312 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 2628, CPU: 0, Pamiêæ: 6ÿ464 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 2644, CPU: 0, Pamiêæ: 4ÿ600 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 2792, CPU: 0, Pamiêæ: 2ÿ408 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 2896, CPU: 0, Pamiêæ: 8ÿ328 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 2988, CPU: 0, Pamiêæ: 2ÿ612 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 3016, CPU: 0, Pamiêæ: 14ÿ568 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 3120, CPU: 0, Pamiêæ: 37ÿ180 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 3128, CPU: 0, Pamiêæ: 12ÿ324 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 3140, CPU: 0, Pamiêæ: 2ÿ668 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 3152, CPU: 0, Pamiêæ: 27ÿ516 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 3160, CPU: 0, Pamiêæ: 5ÿ228 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: FoxitPDFReaderUpdateService.exe, Status: Services, PID: 3200, CPU: 0, Pamiêæ: 1ÿ924 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 3256, CPU: 0, Pamiêæ: 1ÿ220 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 3268, CPU: 0, Pamiêæ: 3ÿ860 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: logioptionsplus_updater.exe, Status: Services, PID: 3284, CPU: 0, Pamiêæ: 12ÿ028 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 3320, CPU: 0, Pamiêæ: 1ÿ608 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 3360, CPU: 0, Pamiêæ: 2ÿ040 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 3380, CPU: 0, Pamiêæ: 12ÿ704 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 3432, CPU: 0, Pamiêæ: 1ÿ324 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: MsMpEng.exe, Status: Services, PID: 3464, CPU: 0, Pamiêæ: 218ÿ516 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 3524, CPU: 0, Pamiêæ: 1ÿ228 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: Memory Compression, Status: Services, PID: 4340, CPU: 0, Pamiêæ: 1ÿ550ÿ624 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: dasHost.exe, Status: Services, PID: 4360, CPU: 0, Pamiêæ: 8ÿ680 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 4392, CPU: 0, Pamiêæ: 5ÿ208 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 4608, CPU: 0, Pamiêæ: 1ÿ428 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 4772, CPU: 0, Pamiêæ: 2ÿ992 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: dasHost.exe, Status: Services, PID: 4892, CPU: 0, Pamiêæ: 832 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 5004, CPU: 0, Pamiêæ: 6ÿ612 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: NisSrv.exe, Status: Services, PID: 5368, CPU: 0, Pamiêæ: 9ÿ608 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 4480, CPU: 0, Pamiêæ: 1ÿ752 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 5484, CPU: 0, Pamiêæ: 3ÿ260 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: WmiPrvSE.exe, Status: Services, PID: 5868, CPU: 0, Pamiêæ: 6ÿ164 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 5804, CPU: 0, Pamiêæ: 9ÿ376 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 5464, CPU: 0, Pamiêæ: 5ÿ944 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: GoogleCrashHandler.exe, Status: Services, PID: 5756, CPU: 0, Pamiêæ: 1ÿ596 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: GoogleCrashHandler64.exe, Status: Services, PID: 5388, CPU: 0, Pamiêæ: 1ÿ060 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: SgrmBroker.exe, Status: Services, PID: 5980, CPU: 0, Pamiêæ: 5ÿ056 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 1484, CPU: 0, Pamiêæ: 14ÿ672 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 2664, CPU: 0, Pamiêæ: 5ÿ160 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 4420, CPU: 0, Pamiêæ: 16ÿ280 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 4388, CPU: 0, Pamiêæ: 1ÿ760 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: logi_crashpad_handler.exe, Status: Services, PID: 6440, CPU: 0, Pamiêæ: 1ÿ128 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 6476, CPU: 0, Pamiêæ: 3ÿ368 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 6688, CPU: 0, Pamiêæ: 4ÿ480 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: SecurityHealthService.exe, Status: Services, PID: 9032, CPU: 0, Pamiêæ: 9ÿ288 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 9140, CPU: 0, Pamiêæ: 14ÿ024 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 8620, CPU: 0, Pamiêæ: 10ÿ680 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 15408, CPU: 0, Pamiêæ: 4ÿ120 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 4820, CPU: 0, Pamiêæ: 4ÿ248 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 14912, CPU: 0, Pamiêæ: 9ÿ700 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: spoolsv.exe, Status: Services, PID: 8248, CPU: 0, Pamiêæ: 7ÿ420 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 9464, CPU: 0, Pamiêæ: 5ÿ216 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 8676, CPU: 0, Pamiêæ: 1ÿ992 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: MoUsoCoreWorker.exe, Status: Services, PID: 17736, CPU: 0, Pamiêæ: 21ÿ972 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 7756, CPU: 0, Pamiêæ: 2ÿ264 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 12436, CPU: 0, Pamiêæ: 1ÿ536 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 2612, CPU: 0, Pamiêæ: 1ÿ012 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: csrss.exe, Status: Console, PID: 8904, CPU: 2, Pamiêæ: 2ÿ652 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: winlogon.exe, Status: Console, PID: 19984, CPU: 2, Pamiêæ: 2ÿ404 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: dwm.exe, Status: Console, PID: 18392, CPU: 2, Pamiêæ: 70ÿ408 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: fontdrvhost.exe, Status: Console, PID: 2684, CPU: 2, Pamiêæ: 7ÿ820 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: NVDisplay.Container.exe, Status: Console, PID: 13728, CPU: 2, Pamiêæ: 9ÿ916 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: sihost.exe, Status: Console, PID: 6916, CPU: 2, Pamiêæ: 24ÿ840 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Console, PID: 13132, CPU: 2, Pamiêæ: 20ÿ876 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Console, PID: 11736, CPU: 2, Pamiêæ: 23ÿ320 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Services, PID: 18168, CPU: 0, Pamiêæ: 2ÿ980 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: taskhostw.exe, Status: Console, PID: 12988, CPU: 2, Pamiêæ: 13ÿ584 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: logioptionsplus_agent.exe, Status: Console, PID: 10544, CPU: 2, Pamiêæ: 51ÿ000 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: explorer.exe, Status: Console, PID: 16992, CPU: 2, Pamiêæ: 147ÿ312 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: svchost.exe, Status: Console, PID: 15064, CPU: 2, Pamiêæ: 17ÿ720 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: logi_crashpad_handler.exe, Status: Console, PID: 2412, CPU: 2, Pamiêæ: 1ÿ688 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: StartMenuExperienceHost.exe, Status: Console, PID: 8704, CPU: 2, Pamiêæ: 64ÿ184 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: RuntimeBroker.exe, Status: Console, PID: 2264, CPU: 2, Pamiêæ: 20ÿ920 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: RuntimeBroker.exe, Status: Console, PID: 20292, CPU: 2, Pamiêæ: 19ÿ452 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: ctfmon.exe, Status: Console, PID: 13236, CPU: 2, Pamiêæ: 14ÿ080 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: smartscreen.exe, Status: Console, PID: 12196, CPU: 2, Pamiêæ: 14ÿ160 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: msedge.exe, Status: Console, PID: 8420, CPU: 2, Pamiêæ: 205ÿ872 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: chrome.exe, Status: Console, PID: 16956, CPU: 2, Pamiêæ: 352ÿ556 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: chrome.exe, Status: Console, PID: 12712, CPU: 2, Pamiêæ: 2ÿ612 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: msedge.exe, Status: Console, PID: 1744, CPU: 2, Pamiêæ: 2ÿ708 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: chrome.exe, Status: Console, PID: 12632, CPU: 2, Pamiêæ: 122ÿ556 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: chrome.exe, Status: Console, PID: 18820, CPU: 2, Pamiêæ: 52ÿ692 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: msedge.exe, Status: Console, PID: 9236, CPU: 2, Pamiêæ: 60ÿ332 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: msedge.exe, Status: Console, PID: 9724, CPU: 2, Pamiêæ: 38ÿ532 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: msedge.exe, Status: Console, PID: 10624, CPU: 2, Pamiêæ: 8ÿ172 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: chrome.exe, Status: Console, PID: 13176, CPU: 2, Pamiêæ: 10ÿ176 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: SecurityHealthSystray.exe, Status: Console, PID: 13272, CPU: 2, Pamiêæ: 3ÿ944 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: chrome.exe, Status: Console, PID: 12428, CPU: 2, Pamiêæ: 107ÿ448 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: chrome.exe, Status: Console, PID: 12368, CPU: 2, Pamiêæ: 23ÿ520 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: msedge.exe, Status: Console, PID: 11584, CPU: 2, Pamiêæ: 82ÿ136 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: chrome.exe, Status: Console, PID: 10076, CPU: 2, Pamiêæ: 17ÿ296 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: chrome.exe, Status: Console, PID: 10580, CPU: 2, Pamiêæ: 16ÿ292 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: msedge.exe, Status: Console, PID: 10352, CPU: 2, Pamiêæ: 83ÿ824 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: LockApp.exe, Status: Console, PID: 12332, CPU: 2, Pamiêæ: 1ÿ616 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: msedge.exe, Status: Console, PID: 4484, CPU: 2, Pamiêæ: 41ÿ560 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: RuntimeBroker.exe, Status: Console, PID: 18860, CPU: 2, Pamiêæ: 25ÿ088 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: BingSvc.exe, Status: Console, PID: 12592, CPU: 2, Pamiêæ: 15ÿ444 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: msedge.exe, Status: Console, PID: 5828, CPU: 2, Pamiêæ: 5ÿ952 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: msedge.exe, Status: Console, PID: 9556, CPU: 2, Pamiêæ: 99ÿ292 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: TextInputHost.exe, Status: Console, PID: 9048, CPU: 2, Pamiêæ: 42ÿ288 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: msedge.exe, Status: Console, PID: 5488, CPU: 2, Pamiêæ: 14ÿ916 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: flux.exe, Status: Console, PID: 14752, CPU: 2, Pamiêæ: 12ÿ864 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: msedge.exe, Status: Console, PID: 11796, CPU: 2, Pamiêæ: 76ÿ976 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: msedge.exe, Status: Console, PID: 18968, CPU: 2, Pamiêæ: 60ÿ508 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: RuntimeBroker.exe, Status: Console, PID: 7916, CPU: 2, Pamiêæ: 7ÿ592 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: Discord.exe, Status: Console, PID: 20384, CPU: 2, Pamiêæ: 36ÿ044 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: BingWallpaperApp.exe, Status: Console, PID: 14316, CPU: 2, Pamiêæ: 28ÿ152 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: ApplicationFrameHost.exe, Status: Console, PID: 9984, CPU: 2, Pamiêæ: 29ÿ904 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: WhatsApp.exe, Status: Console, PID: 13536, CPU: 2, Pamiêæ: 136ÿ972 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:09] Proces: Discord.exe, Status: Console, PID: 10800, CPU: 2, Pamiêæ: 4ÿ512 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: RuntimeBroker.exe, Status: Console, PID: 3824, CPU: 2, Pamiêæ: 23ÿ104 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: Code.exe, Status: Console, PID: 12016, CPU: 2, Pamiêæ: 75ÿ504 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: Code.exe, Status: Console, PID: 9504, CPU: 2, Pamiêæ: 5ÿ492 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: Code.exe, Status: Console, PID: 17076, CPU: 2, Pamiêæ: 81ÿ480 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: Code.exe, Status: Console, PID: 19708, CPU: 2, Pamiêæ: 17ÿ148 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: Discord.exe, Status: Console, PID: 6628, CPU: 2, Pamiêæ: 7ÿ308 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: Discord.exe, Status: Console, PID: 6592, CPU: 2, Pamiêæ: 15ÿ832 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: Code.exe, Status: Console, PID: 6528, CPU: 2, Pamiêæ: 258ÿ372 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: thunderbird.exe, Status: Console, PID: 16004, CPU: 2, Pamiêæ: 168ÿ052 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: FoxitPDFReader.exe, Status: Console, PID: 20348, CPU: 2, Pamiêæ: 14ÿ100 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: thunderbird.exe, Status: Console, PID: 4460, CPU: 2, Pamiêæ: 37ÿ932 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: Discord.exe, Status: Console, PID: 7024, CPU: 2, Pamiêæ: 54ÿ952 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: Code.exe, Status: Console, PID: 16952, CPU: 2, Pamiêæ: 40ÿ828 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: Code.exe, Status: Console, PID: 6384, CPU: 2, Pamiêæ: 52ÿ048 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedgewebview2.exe, Status: Console, PID: 18524, CPU: 2, Pamiêæ: 37ÿ116 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedgewebview2.exe, Status: Console, PID: 8284, CPU: 2, Pamiêæ: 2ÿ048 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedgewebview2.exe, Status: Console, PID: 17560, CPU: 2, Pamiêæ: 22ÿ024 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedgewebview2.exe, Status: Console, PID: 7896, CPU: 2, Pamiêæ: 12ÿ552 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedgewebview2.exe, Status: Console, PID: 20228, CPU: 2, Pamiêæ: 3ÿ652 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedgewebview2.exe, Status: Console, PID: 8640, CPU: 2, Pamiêæ: 16ÿ052 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: thunderbird.exe, Status: Console, PID: 14152, CPU: 2, Pamiêæ: 10ÿ480 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: thunderbird.exe, Status: Console, PID: 18248, CPU: 2, Pamiêæ: 10ÿ652 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: pycharm64.exe, Status: Console, PID: 3724, CPU: 2, Pamiêæ: 378ÿ940 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: Discord.exe, Status: Console, PID: 12184, CPU: 2, Pamiêæ: 6ÿ820 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: chrome.exe, Status: Console, PID: 6680, CPU: 2, Pamiêæ: 361ÿ004 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedge.exe, Status: Console, PID: 8096, CPU: 2, Pamiêæ: 10ÿ196 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: fsnotifier.exe, Status: Console, PID: 5152, CPU: 2, Pamiêæ: 324 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: conhost.exe, Status: Console, PID: 5784, CPU: 2, Pamiêæ: 1ÿ036 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedge.exe, Status: Console, PID: 8456, CPU: 2, Pamiêæ: 16ÿ272 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: svchost.exe, Status: Console, PID: 18872, CPU: 2, Pamiêæ: 8ÿ452 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedge.exe, Status: Console, PID: 8372, CPU: 2, Pamiêæ: 8ÿ396 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: chrome.exe, Status: Console, PID: 13684, CPU: 2, Pamiêæ: 187ÿ048 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: chrome.exe, Status: Console, PID: 17632, CPU: 2, Pamiêæ: 106ÿ976 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: chrome.exe, Status: Console, PID: 20076, CPU: 2, Pamiêæ: 36ÿ448 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: chrome.exe, Status: Console, PID: 8916, CPU: 2, Pamiêæ: 125ÿ300 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: chrome.exe, Status: Console, PID: 16040, CPU: 2, Pamiêæ: 11ÿ128 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: chrome.exe, Status: Console, PID: 16652, CPU: 2, Pamiêæ: 33ÿ644 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: UserOOBEBroker.exe, Status: Console, PID: 17136, CPU: 2, Pamiêæ: 4ÿ932 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: SearchApp.exe, Status: Console, PID: 11128, CPU: 2, Pamiêæ: 598ÿ764 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: dllhost.exe, Status: Console, PID: 1272, CPU: 2, Pamiêæ: 6ÿ492 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: CalculatorApp.exe, Status: Console, PID: 18896, CPU: 2, Pamiêæ: 868 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: RuntimeBroker.exe, Status: Console, PID: 7052, CPU: 2, Pamiêæ: 1ÿ360 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedge.exe, Status: Console, PID: 18444, CPU: 2, Pamiêæ: 6ÿ836 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: notepad++.exe, Status: Console, PID: 11856, CPU: 2, Pamiêæ: 3ÿ288 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedge.exe, Status: Console, PID: 6588, CPU: 2, Pamiêæ: 12ÿ268 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedge.exe, Status: Console, PID: 14228, CPU: 2, Pamiêæ: 14ÿ832 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedge.exe, Status: Console, PID: 7128, CPU: 2, Pamiêæ: 14ÿ452 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedge.exe, Status: Console, PID: 7064, CPU: 2, Pamiêæ: 10ÿ688 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedge.exe, Status: Console, PID: 11092, CPU: 2, Pamiêæ: 121ÿ904 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: WmiPrvSE.exe, Status: Services, PID: 10440, CPU: 0, Pamiêæ: 22ÿ168 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: ShellExperienceHost.exe, Status: Console, PID: 1632, CPU: 2, Pamiêæ: 37ÿ496 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: RuntimeBroker.exe, Status: Console, PID: 680, CPU: 2, Pamiêæ: 15ÿ544 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: chrome.exe, Status: Console, PID: 19156, CPU: 2, Pamiêæ: 21ÿ016 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: SearchApp.exe, Status: Console, PID: 12520, CPU: 2, Pamiêæ: 175ÿ664 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedge.exe, Status: Console, PID: 11712, CPU: 2, Pamiêæ: 19ÿ748 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedge.exe, Status: Console, PID: 11644, CPU: 2, Pamiêæ: 5ÿ140 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedge.exe, Status: Console, PID: 4448, CPU: 2, Pamiêæ: 13ÿ888 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: rundll32.exe, Status: Console, PID: 12920, CPU: 2, Pamiêæ: 4ÿ132 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedge.exe, Status: Console, PID: 5896, CPU: 2, Pamiêæ: 15ÿ428 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: Code.exe, Status: Console, PID: 16140, CPU: 2, Pamiêæ: 16ÿ400 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: conhost.exe, Status: Console, PID: 1000, CPU: 2, Pamiêæ: 1ÿ468 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: powershell.exe, Status: Console, PID: 13052, CPU: 2, Pamiêæ: 13ÿ652 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: SearchIndexer.exe, Status: Services, PID: 12600, CPU: 0, Pamiêæ: 24ÿ664 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: armsvc.exe, Status: Services, PID: 3852, CPU: 0, Pamiêæ: 13ÿ276 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: CredentialEnrollmentManager.exe, Status: Console, PID: 17036, CPU: 2, Pamiêæ: 3ÿ432 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: svchost.exe, Status: Services, PID: 596, CPU: 0, Pamiêæ: 2ÿ532 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: Code.exe, Status: Console, PID: 19032, CPU: 2, Pamiêæ: 76ÿ540 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: Code.exe, Status: Console, PID: 5196, CPU: 2, Pamiêæ: 13ÿ944 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: Code.exe, Status: Console, PID: 3372, CPU: 2, Pamiêæ: 12ÿ400 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: TabNine.exe, Status: Console, PID: 14224, CPU: 2, Pamiêæ: 14ÿ692 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: conhost.exe, Status: Console, PID: 3228, CPU: 2, Pamiêæ: 1ÿ476 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: conhost.exe, Status: Console, PID: 4408, CPU: 2, Pamiêæ: 2ÿ164 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: powershell.exe, Status: Console, PID: 6012, CPU: 2, Pamiêæ: 14ÿ408 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: Code.exe, Status: Console, PID: 13384, CPU: 2, Pamiêæ: 151ÿ400 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: TabNine.exe, Status: Console, PID: 18388, CPU: 2, Pamiêæ: 24ÿ692 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: conhost.exe, Status: Console, PID: 20812, CPU: 2, Pamiêæ: 2ÿ816 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: powershell.exe, Status: Console, PID: 13768, CPU: 2, Pamiêæ: 16ÿ292 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: taskhostw.exe, Status: Console, PID: 15860, CPU: 2, Pamiêæ: 5ÿ612 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: CodeSetup-stable-8b3775030ed1a69b13e4f4c628c612102e30a681.exe, Status: Console, PID: 8600, CPU: 2, Pamiêæ: 3ÿ432 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: CodeSetup-stable-8b3775030ed1a69b13e4f4c628c612102e30a681.tmp, Status: Console, PID: 21224, CPU: 2, Pamiêæ: 7ÿ196 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: svchost.exe, Status: Services, PID: 14000, CPU: 0, Pamiêæ: 5ÿ200 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: taskhostw.exe, Status: Console, PID: 2356, CPU: 2, Pamiêæ: 21ÿ136 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: logioptionsplus_appbroker.exe, Status: Console, PID: 18700, CPU: 2, Pamiêæ: 6ÿ876 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: unsecapp.exe, Status: Console, PID: 13612, CPU: 2, Pamiêæ: 8ÿ752 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: PhoneExperienceHost.exe, Status: Console, PID: 11940, CPU: 2, Pamiêæ: 123ÿ904 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: RuntimeBroker.exe, Status: Console, PID: 9332, CPU: 2, Pamiêæ: 15ÿ296 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: svchost.exe, Status: Services, PID: 23280, CPU: 0, Pamiêæ: 17ÿ072 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: chrome.exe, Status: Console, PID: 17024, CPU: 2, Pamiêæ: 305ÿ512 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: chrome.exe, Status: Console, PID: 8200, CPU: 2, Pamiêæ: 207ÿ468 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: WINWORD.EXE, Status: Console, PID: 22448, CPU: 2, Pamiêæ: 193ÿ484 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: Code.exe, Status: Console, PID: 13504, CPU: 2, Pamiêæ: 73ÿ748 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: SystemSettings.exe, Status: Console, PID: 21856, CPU: 2, Pamiêæ: 1ÿ564 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: chrome.exe, Status: Console, PID: 15880, CPU: 2, Pamiêæ: 218ÿ956 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedge.exe, Status: Console, PID: 16980, CPU: 2, Pamiêæ: 48ÿ652 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: msedge.exe, Status: Console, PID: 22108, CPU: 2, Pamiêæ: 23ÿ160 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: chrome.exe, Status: Console, PID: 20620, CPU: 2, Pamiêæ: 106ÿ536 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: audiodg.exe, Status: Services, PID: 23360, CPU: 0, Pamiêæ: 13ÿ488 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: chrome.exe, Status: Console, PID: 9088, CPU: 2, Pamiêæ: 275ÿ056 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: WD-TabNine.exe, Status: Console, PID: 980, CPU: 2, Pamiêæ: 19ÿ200 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: svchost.exe, Status: Services, PID: 8012, CPU: 0, Pamiêæ: 6ÿ356 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: svchost.exe, Status: Services, PID: 6780, CPU: 0, Pamiêæ: 7ÿ620 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: svchost.exe, Status: Services, PID: 20188, CPU: 0, Pamiêæ: 25ÿ508 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: svchost.exe, Status: Services, PID: 4916, CPU: 0, Pamiêæ: 7ÿ880 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: conhost.exe, Status: Console, PID: 7840, CPU: 2, Pamiêæ: 6ÿ528 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: powershell.exe, Status: Console, PID: 13680, CPU: 2, Pamiêæ: 76ÿ368 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: python.exe, Status: Console, PID: 5128, CPU: 2, Pamiêæ: 56ÿ972 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: ScreenSketch.exe, Status: Console, PID: 22328, CPU: 2, Pamiêæ: 86ÿ572 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: svchost.exe, Status: Services, PID: 7360, CPU: 0, Pamiêæ: 8ÿ096 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: RuntimeBroker.exe, Status: Console, PID: 19932, CPU: 2, Pamiêæ: 32ÿ516 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: svchost.exe, Status: Console, PID: 7152, CPU: 2, Pamiêæ: 14ÿ064 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: chrome.exe, Status: Console, PID: 11772, CPU: 2, Pamiêæ: 31ÿ700 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: svchost.exe, Status: Services, PID: 18644, CPU: 0, Pamiêæ: 12ÿ368 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: SearchProtocolHost.exe, Status: Services, PID: 7088, CPU: 0, Pamiêæ: 15ÿ740 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: SearchFilterHost.exe, Status: Services, PID: 3848, CPU: 0, Pamiêæ: 9ÿ684 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: SearchProtocolHost.exe, Status: Console, PID: 2568, CPU: 2, Pamiêæ: 8ÿ664 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: chrome.exe, Status: Console, PID: 22432, CPU: 2, Pamiêæ: 39ÿ500 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:44:10] Proces: tasklist.exe, Status: Console, PID: 15776, CPU: 2, Pamiêæ: 9ÿ356 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: System Idle Process, Status: Services, PID: 0, CPU: 0, Pamiêæ: 8 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: System, Status: Services, PID: 4, CPU: 0, Pamiêæ: 5ÿ904 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: Registry, Status: Services, PID: 108, CPU: 0, Pamiêæ: 36ÿ692 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: smss.exe, Status: Services, PID: 416, CPU: 0, Pamiêæ: 300 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: csrss.exe, Status: Services, PID: 540, CPU: 0, Pamiêæ: 1ÿ924 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: wininit.exe, Status: Services, PID: 728, CPU: 0, Pamiêæ: 944 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: services.exe, Status: Services, PID: 836, CPU: 0, Pamiêæ: 6ÿ460 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: lsass.exe, Status: Services, PID: 888, CPU: 0, Pamiêæ: 15ÿ156 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 68, CPU: 0, Pamiêæ: 25ÿ896 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: fontdrvhost.exe, Status: Services, PID: 512, CPU: 0, Pamiêæ: 280 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 644, CPU: 0, Pamiêæ: 14ÿ784 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 772, CPU: 0, Pamiêæ: 3ÿ608 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 1116, CPU: 0, Pamiêæ: 4ÿ424 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 1168, CPU: 0, Pamiêæ: 4ÿ288 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 1252, CPU: 0, Pamiêæ: 10ÿ656 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 1340, CPU: 0, Pamiêæ: 1ÿ988 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 1380, CPU: 0, Pamiêæ: 3ÿ412 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 1412, CPU: 0, Pamiêæ: 3ÿ432 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 1540, CPU: 0, Pamiêæ: 6ÿ916 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: NVDisplay.Container.exe, Status: Services, PID: 1572, CPU: 0, Pamiêæ: 5ÿ468 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 1612, CPU: 0, Pamiêæ: 9ÿ532 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 1704, CPU: 0, Pamiêæ: 1ÿ512 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 1712, CPU: 0, Pamiêæ: 4ÿ932 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 1720, CPU: 0, Pamiêæ: 3ÿ556 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 1728, CPU: 0, Pamiêæ: 6ÿ104 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 1736, CPU: 0, Pamiêæ: 6ÿ152 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 1884, CPU: 0, Pamiêæ: 2ÿ524 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 1908, CPU: 0, Pamiêæ: 2ÿ384 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 1916, CPU: 0, Pamiêæ: 4ÿ864 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: WUDFHost.exe, Status: Services, PID: 1312, CPU: 0, Pamiêæ: 1ÿ880 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 2192, CPU: 0, Pamiêæ: 6ÿ460 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 2200, CPU: 0, Pamiêæ: 4ÿ032 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 2272, CPU: 0, Pamiêæ: 45ÿ924 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 2300, CPU: 0, Pamiêæ: 1ÿ560 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 2316, CPU: 0, Pamiêæ: 3ÿ772 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 2456, CPU: 0, Pamiêæ: 4ÿ896 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 2484, CPU: 0, Pamiêæ: 5ÿ580 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 2500, CPU: 0, Pamiêæ: 3ÿ868 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 2560, CPU: 0, Pamiêæ: 16ÿ652 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 2628, CPU: 0, Pamiêæ: 6ÿ468 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 2644, CPU: 0, Pamiêæ: 4ÿ600 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 2792, CPU: 0, Pamiêæ: 2ÿ408 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 2896, CPU: 0, Pamiêæ: 8ÿ328 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 2988, CPU: 0, Pamiêæ: 2ÿ576 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 3016, CPU: 0, Pamiêæ: 14ÿ540 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 3120, CPU: 0, Pamiêæ: 37ÿ736 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 3128, CPU: 0, Pamiêæ: 12ÿ324 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 3140, CPU: 0, Pamiêæ: 2ÿ668 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 3152, CPU: 0, Pamiêæ: 27ÿ484 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 3160, CPU: 0, Pamiêæ: 5ÿ228 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: FoxitPDFReaderUpdateService.exe, Status: Services, PID: 3200, CPU: 0, Pamiêæ: 1ÿ924 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 3256, CPU: 0, Pamiêæ: 1ÿ220 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 3268, CPU: 0, Pamiêæ: 3ÿ844 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: logioptionsplus_updater.exe, Status: Services, PID: 3284, CPU: 0, Pamiêæ: 12ÿ028 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 3320, CPU: 0, Pamiêæ: 1ÿ608 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 3360, CPU: 0, Pamiêæ: 2ÿ040 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 3380, CPU: 0, Pamiêæ: 12ÿ692 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 3432, CPU: 0, Pamiêæ: 1ÿ324 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: MsMpEng.exe, Status: Services, PID: 3464, CPU: 0, Pamiêæ: 213ÿ448 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 3524, CPU: 0, Pamiêæ: 1ÿ204 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: Memory Compression, Status: Services, PID: 4340, CPU: 0, Pamiêæ: 1ÿ548ÿ176 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: dasHost.exe, Status: Services, PID: 4360, CPU: 0, Pamiêæ: 8ÿ680 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 4392, CPU: 0, Pamiêæ: 5ÿ200 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 4608, CPU: 0, Pamiêæ: 1ÿ428 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 4772, CPU: 0, Pamiêæ: 2ÿ992 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: dasHost.exe, Status: Services, PID: 4892, CPU: 0, Pamiêæ: 832 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 5004, CPU: 0, Pamiêæ: 6ÿ580 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: NisSrv.exe, Status: Services, PID: 5368, CPU: 0, Pamiêæ: 9ÿ540 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 4480, CPU: 0, Pamiêæ: 1ÿ768 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 5484, CPU: 0, Pamiêæ: 3ÿ276 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: WmiPrvSE.exe, Status: Services, PID: 5868, CPU: 0, Pamiêæ: 6ÿ164 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 5804, CPU: 0, Pamiêæ: 9ÿ376 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 5464, CPU: 0, Pamiêæ: 5ÿ920 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: GoogleCrashHandler.exe, Status: Services, PID: 5756, CPU: 0, Pamiêæ: 1ÿ596 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: GoogleCrashHandler64.exe, Status: Services, PID: 5388, CPU: 0, Pamiêæ: 1ÿ060 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: SgrmBroker.exe, Status: Services, PID: 5980, CPU: 0, Pamiêæ: 5ÿ116 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 1484, CPU: 0, Pamiêæ: 14ÿ700 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 2664, CPU: 0, Pamiêæ: 5ÿ192 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 4420, CPU: 0, Pamiêæ: 16ÿ216 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 4388, CPU: 0, Pamiêæ: 1ÿ760 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: logi_crashpad_handler.exe, Status: Services, PID: 6440, CPU: 0, Pamiêæ: 1ÿ128 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 6476, CPU: 0, Pamiêæ: 3ÿ368 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 6688, CPU: 0, Pamiêæ: 4ÿ480 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: SecurityHealthService.exe, Status: Services, PID: 9032, CPU: 0, Pamiêæ: 9ÿ288 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 9140, CPU: 0, Pamiêæ: 14ÿ004 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 8620, CPU: 0, Pamiêæ: 10ÿ696 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 15408, CPU: 0, Pamiêæ: 4ÿ120 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 4820, CPU: 0, Pamiêæ: 4ÿ232 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 14912, CPU: 0, Pamiêæ: 9ÿ688 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: spoolsv.exe, Status: Services, PID: 8248, CPU: 0, Pamiêæ: 7ÿ400 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 9464, CPU: 0, Pamiêæ: 5ÿ240 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 8676, CPU: 0, Pamiêæ: 1ÿ976 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: MoUsoCoreWorker.exe, Status: Services, PID: 17736, CPU: 0, Pamiêæ: 21ÿ984 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 7756, CPU: 0, Pamiêæ: 2ÿ264 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 12436, CPU: 0, Pamiêæ: 1ÿ536 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 2612, CPU: 0, Pamiêæ: 1ÿ172 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: csrss.exe, Status: Console, PID: 8904, CPU: 2, Pamiêæ: 2ÿ632 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: winlogon.exe, Status: Console, PID: 19984, CPU: 2, Pamiêæ: 2ÿ404 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: dwm.exe, Status: Console, PID: 18392, CPU: 2, Pamiêæ: 70ÿ724 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: fontdrvhost.exe, Status: Console, PID: 2684, CPU: 2, Pamiêæ: 7ÿ820 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: NVDisplay.Container.exe, Status: Console, PID: 13728, CPU: 2, Pamiêæ: 9ÿ916 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: sihost.exe, Status: Console, PID: 6916, CPU: 2, Pamiêæ: 24ÿ816 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Console, PID: 13132, CPU: 2, Pamiêæ: 20ÿ856 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Console, PID: 11736, CPU: 2, Pamiêæ: 23ÿ284 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Services, PID: 18168, CPU: 0, Pamiêæ: 2ÿ980 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: taskhostw.exe, Status: Console, PID: 12988, CPU: 2, Pamiêæ: 13ÿ576 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: logioptionsplus_agent.exe, Status: Console, PID: 10544, CPU: 2, Pamiêæ: 51ÿ460 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: explorer.exe, Status: Console, PID: 16992, CPU: 2, Pamiêæ: 146ÿ312 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: svchost.exe, Status: Console, PID: 15064, CPU: 2, Pamiêæ: 17ÿ564 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: logi_crashpad_handler.exe, Status: Console, PID: 2412, CPU: 2, Pamiêæ: 1ÿ688 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: StartMenuExperienceHost.exe, Status: Console, PID: 8704, CPU: 2, Pamiêæ: 64ÿ144 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: RuntimeBroker.exe, Status: Console, PID: 2264, CPU: 2, Pamiêæ: 20ÿ920 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: RuntimeBroker.exe, Status: Console, PID: 20292, CPU: 2, Pamiêæ: 18ÿ936 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: ctfmon.exe, Status: Console, PID: 13236, CPU: 2, Pamiêæ: 14ÿ120 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: smartscreen.exe, Status: Console, PID: 12196, CPU: 2, Pamiêæ: 14ÿ192 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: msedge.exe, Status: Console, PID: 8420, CPU: 2, Pamiêæ: 205ÿ268 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: chrome.exe, Status: Console, PID: 16956, CPU: 2, Pamiêæ: 352ÿ620 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: chrome.exe, Status: Console, PID: 12712, CPU: 2, Pamiêæ: 2ÿ612 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: msedge.exe, Status: Console, PID: 1744, CPU: 2, Pamiêæ: 2ÿ708 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: chrome.exe, Status: Console, PID: 12632, CPU: 2, Pamiêæ: 122ÿ564 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: chrome.exe, Status: Console, PID: 18820, CPU: 2, Pamiêæ: 52ÿ640 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: msedge.exe, Status: Console, PID: 9236, CPU: 2, Pamiêæ: 60ÿ352 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: msedge.exe, Status: Console, PID: 9724, CPU: 2, Pamiêæ: 38ÿ660 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: msedge.exe, Status: Console, PID: 10624, CPU: 2, Pamiêæ: 8ÿ172 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: chrome.exe, Status: Console, PID: 13176, CPU: 2, Pamiêæ: 10ÿ164 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: SecurityHealthSystray.exe, Status: Console, PID: 13272, CPU: 2, Pamiêæ: 3ÿ964 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: chrome.exe, Status: Console, PID: 12428, CPU: 2, Pamiêæ: 107ÿ664 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: chrome.exe, Status: Console, PID: 12368, CPU: 2, Pamiêæ: 23ÿ608 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: msedge.exe, Status: Console, PID: 11584, CPU: 2, Pamiêæ: 82ÿ424 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: chrome.exe, Status: Console, PID: 10076, CPU: 2, Pamiêæ: 17ÿ280 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: chrome.exe, Status: Console, PID: 10580, CPU: 2, Pamiêæ: 16ÿ296 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: msedge.exe, Status: Console, PID: 10352, CPU: 2, Pamiêæ: 83ÿ824 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: LockApp.exe, Status: Console, PID: 12332, CPU: 2, Pamiêæ: 1ÿ616 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: msedge.exe, Status: Console, PID: 4484, CPU: 2, Pamiêæ: 42ÿ936 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: RuntimeBroker.exe, Status: Console, PID: 18860, CPU: 2, Pamiêæ: 21ÿ004 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: BingSvc.exe, Status: Console, PID: 12592, CPU: 2, Pamiêæ: 15ÿ444 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: msedge.exe, Status: Console, PID: 5828, CPU: 2, Pamiêæ: 5ÿ952 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: msedge.exe, Status: Console, PID: 9556, CPU: 2, Pamiêæ: 99ÿ300 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: TextInputHost.exe, Status: Console, PID: 9048, CPU: 2, Pamiêæ: 42ÿ284 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: msedge.exe, Status: Console, PID: 5488, CPU: 2, Pamiêæ: 14ÿ916 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: flux.exe, Status: Console, PID: 14752, CPU: 2, Pamiêæ: 12ÿ880 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: msedge.exe, Status: Console, PID: 11796, CPU: 2, Pamiêæ: 76ÿ976 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: msedge.exe, Status: Console, PID: 18968, CPU: 2, Pamiêæ: 60ÿ516 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: RuntimeBroker.exe, Status: Console, PID: 7916, CPU: 2, Pamiêæ: 7ÿ592 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: Discord.exe, Status: Console, PID: 20384, CPU: 2, Pamiêæ: 38ÿ204 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: BingWallpaperApp.exe, Status: Console, PID: 14316, CPU: 2, Pamiêæ: 28ÿ120 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: ApplicationFrameHost.exe, Status: Console, PID: 9984, CPU: 2, Pamiêæ: 29ÿ868 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: WhatsApp.exe, Status: Console, PID: 13536, CPU: 2, Pamiêæ: 137ÿ120 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:13] Proces: Discord.exe, Status: Console, PID: 10800, CPU: 2, Pamiêæ: 4ÿ512 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: RuntimeBroker.exe, Status: Console, PID: 3824, CPU: 2, Pamiêæ: 23ÿ104 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: Code.exe, Status: Console, PID: 12016, CPU: 2, Pamiêæ: 80ÿ660 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: Code.exe, Status: Console, PID: 9504, CPU: 2, Pamiêæ: 5ÿ504 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: Code.exe, Status: Console, PID: 17076, CPU: 2, Pamiêæ: 110ÿ740 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: Code.exe, Status: Console, PID: 19708, CPU: 2, Pamiêæ: 17ÿ200 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: Discord.exe, Status: Console, PID: 6628, CPU: 2, Pamiêæ: 7ÿ320 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: Discord.exe, Status: Console, PID: 6592, CPU: 2, Pamiêæ: 17ÿ052 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: Code.exe, Status: Console, PID: 6528, CPU: 2, Pamiêæ: 270ÿ724 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: thunderbird.exe, Status: Console, PID: 16004, CPU: 2, Pamiêæ: 168ÿ820 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: FoxitPDFReader.exe, Status: Console, PID: 20348, CPU: 2, Pamiêæ: 14ÿ128 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: thunderbird.exe, Status: Console, PID: 4460, CPU: 2, Pamiêæ: 54ÿ340 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: Discord.exe, Status: Console, PID: 7024, CPU: 2, Pamiêæ: 66ÿ616 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: Code.exe, Status: Console, PID: 16952, CPU: 2, Pamiêæ: 44ÿ600 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: Code.exe, Status: Console, PID: 6384, CPU: 2, Pamiêæ: 57ÿ360 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedgewebview2.exe, Status: Console, PID: 18524, CPU: 2, Pamiêæ: 37ÿ036 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedgewebview2.exe, Status: Console, PID: 8284, CPU: 2, Pamiêæ: 2ÿ048 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedgewebview2.exe, Status: Console, PID: 17560, CPU: 2, Pamiêæ: 22ÿ024 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedgewebview2.exe, Status: Console, PID: 7896, CPU: 2, Pamiêæ: 12ÿ552 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedgewebview2.exe, Status: Console, PID: 20228, CPU: 2, Pamiêæ: 3ÿ652 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedgewebview2.exe, Status: Console, PID: 8640, CPU: 2, Pamiêæ: 16ÿ052 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: thunderbird.exe, Status: Console, PID: 14152, CPU: 2, Pamiêæ: 10ÿ480 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: thunderbird.exe, Status: Console, PID: 18248, CPU: 2, Pamiêæ: 10ÿ652 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: pycharm64.exe, Status: Console, PID: 3724, CPU: 2, Pamiêæ: 392ÿ812 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: Discord.exe, Status: Console, PID: 12184, CPU: 2, Pamiêæ: 6ÿ820 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: chrome.exe, Status: Console, PID: 6680, CPU: 2, Pamiêæ: 383ÿ356 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedge.exe, Status: Console, PID: 8096, CPU: 2, Pamiêæ: 10ÿ196 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: fsnotifier.exe, Status: Console, PID: 5152, CPU: 2, Pamiêæ: 324 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: conhost.exe, Status: Console, PID: 5784, CPU: 2, Pamiêæ: 1ÿ036 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedge.exe, Status: Console, PID: 8456, CPU: 2, Pamiêæ: 16ÿ272 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: svchost.exe, Status: Console, PID: 18872, CPU: 2, Pamiêæ: 8ÿ436 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedge.exe, Status: Console, PID: 8372, CPU: 2, Pamiêæ: 1ÿ816 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: chrome.exe, Status: Console, PID: 13684, CPU: 2, Pamiêæ: 188ÿ532 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: chrome.exe, Status: Console, PID: 17632, CPU: 2, Pamiêæ: 107ÿ148 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: chrome.exe, Status: Console, PID: 20076, CPU: 2, Pamiêæ: 36ÿ460 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: chrome.exe, Status: Console, PID: 8916, CPU: 2, Pamiêæ: 125ÿ808 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: chrome.exe, Status: Console, PID: 16040, CPU: 2, Pamiêæ: 11ÿ112 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: chrome.exe, Status: Console, PID: 16652, CPU: 2, Pamiêæ: 33ÿ684 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: UserOOBEBroker.exe, Status: Console, PID: 17136, CPU: 2, Pamiêæ: 4ÿ904 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: SearchApp.exe, Status: Console, PID: 11128, CPU: 2, Pamiêæ: 598ÿ764 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: dllhost.exe, Status: Console, PID: 1272, CPU: 2, Pamiêæ: 6ÿ496 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: CalculatorApp.exe, Status: Console, PID: 18896, CPU: 2, Pamiêæ: 868 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: RuntimeBroker.exe, Status: Console, PID: 7052, CPU: 2, Pamiêæ: 1ÿ360 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedge.exe, Status: Console, PID: 18444, CPU: 2, Pamiêæ: 6ÿ836 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: notepad++.exe, Status: Console, PID: 11856, CPU: 2, Pamiêæ: 3ÿ288 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedge.exe, Status: Console, PID: 6588, CPU: 2, Pamiêæ: 12ÿ268 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedge.exe, Status: Console, PID: 14228, CPU: 2, Pamiêæ: 14ÿ832 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedge.exe, Status: Console, PID: 7128, CPU: 2, Pamiêæ: 14ÿ452 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedge.exe, Status: Console, PID: 7064, CPU: 2, Pamiêæ: 10ÿ688 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedge.exe, Status: Console, PID: 11092, CPU: 2, Pamiêæ: 3ÿ584 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: WmiPrvSE.exe, Status: Services, PID: 10440, CPU: 0, Pamiêæ: 21ÿ664 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: ShellExperienceHost.exe, Status: Console, PID: 1632, CPU: 2, Pamiêæ: 37ÿ496 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: RuntimeBroker.exe, Status: Console, PID: 680, CPU: 2, Pamiêæ: 15ÿ528 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: chrome.exe, Status: Console, PID: 19156, CPU: 2, Pamiêæ: 21ÿ016 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: SearchApp.exe, Status: Console, PID: 12520, CPU: 2, Pamiêæ: 175ÿ664 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedge.exe, Status: Console, PID: 11712, CPU: 2, Pamiêæ: 19ÿ748 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedge.exe, Status: Console, PID: 11644, CPU: 2, Pamiêæ: 5ÿ140 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedge.exe, Status: Console, PID: 4448, CPU: 2, Pamiêæ: 13ÿ888 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: rundll32.exe, Status: Console, PID: 12920, CPU: 2, Pamiêæ: 4ÿ132 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedge.exe, Status: Console, PID: 5896, CPU: 2, Pamiêæ: 15ÿ428 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: Code.exe, Status: Console, PID: 16140, CPU: 2, Pamiêæ: 17ÿ164 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: conhost.exe, Status: Console, PID: 1000, CPU: 2, Pamiêæ: 1ÿ468 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: powershell.exe, Status: Console, PID: 13052, CPU: 2, Pamiêæ: 13ÿ652 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: SearchIndexer.exe, Status: Services, PID: 12600, CPU: 0, Pamiêæ: 25ÿ944 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: armsvc.exe, Status: Services, PID: 3852, CPU: 0, Pamiêæ: 13ÿ276 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: CredentialEnrollmentManager.exe, Status: Console, PID: 17036, CPU: 2, Pamiêæ: 3ÿ464 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: svchost.exe, Status: Services, PID: 596, CPU: 0, Pamiêæ: 2ÿ532 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: Code.exe, Status: Console, PID: 19032, CPU: 2, Pamiêæ: 78ÿ480 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: Code.exe, Status: Console, PID: 5196, CPU: 2, Pamiêæ: 13ÿ948 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: Code.exe, Status: Console, PID: 3372, CPU: 2, Pamiêæ: 12ÿ428 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: TabNine.exe, Status: Console, PID: 14224, CPU: 2, Pamiêæ: 14ÿ692 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: conhost.exe, Status: Console, PID: 3228, CPU: 2, Pamiêæ: 1ÿ476 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: conhost.exe, Status: Console, PID: 4408, CPU: 2, Pamiêæ: 2ÿ164 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: powershell.exe, Status: Console, PID: 6012, CPU: 2, Pamiêæ: 14ÿ408 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: Code.exe, Status: Console, PID: 13384, CPU: 2, Pamiêæ: 151ÿ148 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: TabNine.exe, Status: Console, PID: 18388, CPU: 2, Pamiêæ: 24ÿ804 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: conhost.exe, Status: Console, PID: 20812, CPU: 2, Pamiêæ: 2ÿ860 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: powershell.exe, Status: Console, PID: 13768, CPU: 2, Pamiêæ: 16ÿ292 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: taskhostw.exe, Status: Console, PID: 15860, CPU: 2, Pamiêæ: 5ÿ612 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: CodeSetup-stable-8b3775030ed1a69b13e4f4c628c612102e30a681.exe, Status: Console, PID: 8600, CPU: 2, Pamiêæ: 3ÿ432 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: CodeSetup-stable-8b3775030ed1a69b13e4f4c628c612102e30a681.tmp, Status: Console, PID: 21224, CPU: 2, Pamiêæ: 7ÿ196 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: svchost.exe, Status: Services, PID: 14000, CPU: 0, Pamiêæ: 5ÿ200 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: taskhostw.exe, Status: Console, PID: 2356, CPU: 2, Pamiêæ: 21ÿ120 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: logioptionsplus_appbroker.exe, Status: Console, PID: 18700, CPU: 2, Pamiêæ: 6ÿ888 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: unsecapp.exe, Status: Console, PID: 13612, CPU: 2, Pamiêæ: 8ÿ748 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: PhoneExperienceHost.exe, Status: Console, PID: 11940, CPU: 2, Pamiêæ: 123ÿ912 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: RuntimeBroker.exe, Status: Console, PID: 9332, CPU: 2, Pamiêæ: 15ÿ296 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: svchost.exe, Status: Services, PID: 23280, CPU: 0, Pamiêæ: 17ÿ156 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: chrome.exe, Status: Console, PID: 17024, CPU: 2, Pamiêæ: 305ÿ488 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: chrome.exe, Status: Console, PID: 8200, CPU: 2, Pamiêæ: 207ÿ248 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: WINWORD.EXE, Status: Console, PID: 22448, CPU: 2, Pamiêæ: 156ÿ652 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: Code.exe, Status: Console, PID: 13504, CPU: 2, Pamiêæ: 73ÿ760 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: SystemSettings.exe, Status: Console, PID: 21856, CPU: 2, Pamiêæ: 1ÿ564 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: chrome.exe, Status: Console, PID: 15880, CPU: 2, Pamiêæ: 217ÿ936 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedge.exe, Status: Console, PID: 16980, CPU: 2, Pamiêæ: 48ÿ652 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: msedge.exe, Status: Console, PID: 22108, CPU: 2, Pamiêæ: 23ÿ160 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: chrome.exe, Status: Console, PID: 20620, CPU: 2, Pamiêæ: 106ÿ684 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: audiodg.exe, Status: Services, PID: 23360, CPU: 0, Pamiêæ: 13ÿ492 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: chrome.exe, Status: Console, PID: 9088, CPU: 2, Pamiêæ: 287ÿ408 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: WD-TabNine.exe, Status: Console, PID: 980, CPU: 2, Pamiêæ: 19ÿ212 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: svchost.exe, Status: Services, PID: 8012, CPU: 0, Pamiêæ: 6ÿ356 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: svchost.exe, Status: Services, PID: 6780, CPU: 0, Pamiêæ: 7ÿ620 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: svchost.exe, Status: Services, PID: 20188, CPU: 0, Pamiêæ: 25ÿ584 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: svchost.exe, Status: Services, PID: 4916, CPU: 0, Pamiêæ: 7ÿ868 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: conhost.exe, Status: Console, PID: 7840, CPU: 2, Pamiêæ: 6ÿ776 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: powershell.exe, Status: Console, PID: 13680, CPU: 2, Pamiêæ: 76ÿ412 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: python.exe, Status: Console, PID: 5128, CPU: 2, Pamiêæ: 73ÿ996 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: ScreenSketch.exe, Status: Console, PID: 22328, CPU: 2, Pamiêæ: 97ÿ860 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: RuntimeBroker.exe, Status: Console, PID: 19932, CPU: 2, Pamiêæ: 30ÿ264 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: svchost.exe, Status: Console, PID: 7152, CPU: 2, Pamiêæ: 14ÿ032 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: chrome.exe, Status: Console, PID: 11772, CPU: 2, Pamiêæ: 31ÿ700 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: svchost.exe, Status: Services, PID: 18644, CPU: 0, Pamiêæ: 12ÿ288 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: SearchProtocolHost.exe, Status: Services, PID: 20584, CPU: 0, Pamiêæ: 15ÿ268 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: SearchFilterHost.exe, Status: Services, PID: 18276, CPU: 0, Pamiêæ: 9ÿ580 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: chrome.exe, Status: Console, PID: 7136, CPU: 2, Pamiêæ: 39ÿ516 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:46:14] Proces: tasklist.exe, Status: Console, PID: 13548, CPU: 2, Pamiêæ: 9ÿ364 K, Obci¹¿enie CPU: N/A, Czas CPU systemu: N/A
+[2024-01-19 12:50:52] B³¹d podczas wyœwietlania w³aœciwoœci pliku/folderu : [WinError 3] System nie mo¿e odnaleŸæ okreœlonej œcie¿ki: ''
+[2024-01-19 13:08:48] I/O on Disk 'PhysicalDrive0': Read 92975696384 bytes, Write 124702722560 bytes
+[2024-01-19 13:08:48] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:48] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:48] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:48] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:48] I/O on Disk 'PhysicalDrive5': Read 325632 bytes, Write 663552 bytes
+[2024-01-19 13:08:49] I/O on Disk 'PhysicalDrive0': Read 92975696384 bytes, Write 124703508992 bytes
+[2024-01-19 13:08:49] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:49] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:49] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:49] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:49] I/O on Disk 'PhysicalDrive5': Read 325632 bytes, Write 663552 bytes
+[2024-01-19 13:08:50] I/O on Disk 'PhysicalDrive0': Read 92975710208 bytes, Write 124703529984 bytes
+[2024-01-19 13:08:50] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:50] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:50] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:50] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:50] I/O on Disk 'PhysicalDrive5': Read 325632 bytes, Write 663552 bytes
+[2024-01-19 13:08:51] I/O on Disk 'PhysicalDrive0': Read 92975710208 bytes, Write 124703668224 bytes
+[2024-01-19 13:08:51] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:51] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:51] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:51] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:51] I/O on Disk 'PhysicalDrive5': Read 325632 bytes, Write 663552 bytes
+[2024-01-19 13:08:52] I/O on Disk 'PhysicalDrive0': Read 92975711232 bytes, Write 124703779840 bytes
+[2024-01-19 13:08:52] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:52] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:52] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:52] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:52] I/O on Disk 'PhysicalDrive5': Read 325632 bytes, Write 663552 bytes
+[2024-01-19 13:08:53] I/O on Disk 'PhysicalDrive0': Read 92975711232 bytes, Write 124703847936 bytes
+[2024-01-19 13:08:53] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:53] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:53] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:53] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:53] I/O on Disk 'PhysicalDrive5': Read 325632 bytes, Write 663552 bytes
+[2024-01-19 13:08:54] I/O on Disk 'PhysicalDrive0': Read 92975711232 bytes, Write 124703908352 bytes
+[2024-01-19 13:08:54] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:54] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:54] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:54] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:54] I/O on Disk 'PhysicalDrive5': Read 325632 bytes, Write 663552 bytes
+[2024-01-19 13:08:55] I/O on Disk 'PhysicalDrive0': Read 92975711232 bytes, Write 124703936512 bytes
+[2024-01-19 13:08:55] I/O on Disk 'PhysicalDrive1': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:55] I/O on Disk 'PhysicalDrive2': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:55] I/O on Disk 'PhysicalDrive3': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:55] I/O on Disk 'PhysicalDrive4': Read 0 bytes, Write 0 bytes
+[2024-01-19 13:08:55] I/O on Disk 'PhysicalDrive5': Read 325632 bytes, Write 663552 bytes
+[2024-01-19 13:17:59] U¿ytkownik 'Andrzej Adam' zalogowa³ siê.
+[2024-01-19 13:17:59] Zalogowanie u¿ytkownika: Andrzej Adam
+[2024-01-19 13:18:32] U¿ytkownik 'Zenon Zachary' zalogowa³ siê.
+[2024-01-19 13:18:32] Zalogowanie u¿ytkownika: Zenon Zachary
+[2024-01-19 13:18:37] Zalogowani u¿ytkownicy: Andrzej Adam, Zenon Zachary
+[2024-01-19 13:18:54] U¿ytkownik 'Zenon Zachary' wylogowa³ siê.
+[2024-01-19 13:18:54] Wylogowanie u¿ytkownika: Zenon Zachary
